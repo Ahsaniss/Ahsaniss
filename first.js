@@ -1,9 +1,10 @@
-let student={
-    Name:"Ahsan",
-    mid_name:"Raza",
-    Roll_No:222016,
+const btn = document.querySelector("button");
 
-
+function random(number) {
+  return Math.floor(Math.random() * (number + 1));
 }
-const result=student.Name+student.mid_name+" "+student.Roll_No;
-console.log(result);
+
+btn.addEventListener("click", () => {
+  const rndCol = `rgb(${random(255)} ${random(255)} ${random(255)})`;
+  document.body.style.backgroundColor = rndCol;
+});
