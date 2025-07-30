@@ -22,7 +22,7 @@
 <a href="mailto:ahsanraza858585@gmail.com">
 <img src="https://img.shields.io/badge/⚡_EMAIL-Connect_With_Me-FF0080?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117&color=FF0080"/>
 </a>
-<a href="https://github.com/ahsani-raza" target="_blank">
+<a href="https://github.com/Ahsaniss" target="_blank">
 <img src="https://img.shields.io/badge/🔮_GITHUB-Follow_My_Journey-8A2BE2?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117&color=8A2BE2"/>
 </a>
 <a href="https://linkedin.com/in/muhammad-ahsan-raza" target="_blank">
@@ -32,9 +32,9 @@
 
 <!-- Enhanced Stats Row -->
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=ahsani-raza&style=for-the-badge&color=00D4FF&labelColor=0d1117&label=PROFILE+VIEWS" alt="Profile Views" />
-<img src="https://img.shields.io/github/followers/ahsani-raza?style=for-the-badge&color=FF0080&labelColor=0d1117&logo=github&label=FOLLOWERS" alt="Followers" />
-<img src="https://img.shields.io/github/stars/ahsani-raza?style=for-the-badge&color=00FF7F&labelColor=0d1117&logo=github&label=STARS" alt="Stars" />
+<img src="https://komarev.com/ghpvc/?username=Ahsaniss&style=for-the-badge&color=00D4FF&labelColor=0d1117&label=PROFILE+VIEWS" alt="Profile Views" />
+<img src="https://img.shields.io/github/followers/Ahsaniss?style=for-the-badge&color=FF0080&labelColor=0d1117&logo=github&label=FOLLOWERS" alt="Followers" />
+<img src="https://img.shields.io/github/stars/Ahsaniss?style=for-the-badge&color=00FF7F&labelColor=0d1117&logo=github&label=STARS" alt="Stars" />
 </p>
 </div>
 
@@ -372,18 +372,18 @@
 <table>
 <tr>
 <td width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=ahsani-raza&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&icon_color=ff0080&ring_color=00ff7f&custom_title=🌟%20AHSAN'S%20GITHUB%20COSMOS" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=Ahsaniss&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&icon_color=ff0080&ring_color=00ff7f&custom_title=🌟%20AHSAN'S%20GITHUB%20COSMOS" alt="GitHub Stats" />
 </td>
 <td width="50%">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ahsani-raza&theme=radical&hide_border=true&background=0d1117&stroke=00d4ff&ring=ff0080&fire=ffd700&currStreakLabel=ffffff&sideLabels=00ff7f&dates=ffffff" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ahsaniss&theme=radical&hide_border=true&background=0d1117&stroke=00d4ff&ring=ff0080&fire=ffd700&currStreakLabel=ffffff&sideLabels=00ff7f&dates=ffffff" alt="GitHub Streak" />
 </td>
 </tr>
 <tr>
 <td width="50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahsani-raza&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&custom_title=💫%20LANGUAGE%20MASTERY" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahsaniss&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&custom_title=💫%20LANGUAGE%20MASTERY" alt="Top Languages" />
 </td>
 <td width="50%">
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=ahsani-raza&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&custom_title=⚡%20CODING%20TIME" alt="Coding Activity" />
+<img src="https://via.placeholder.com/400x195/0d1117/00d4ff?text=⚡+ACTIVE+CODER+⚡%0A%0AAlways+Building+Amazing+Things!%0A%0A🔥+Continuous+Learning+Mode+🔥%0A💡+Innovation+Never+Stops+💡" alt="Active Coder Status" />
 </td>
 </tr>
 </table>
@@ -391,17 +391,17 @@
 
 ### 🌟 **DEVELOPMENT TIMELINE**
 <div align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahsani-raza&theme=radical" alt="Profile Details" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ahsaniss&theme=radical" alt="Profile Details" />
 </div>
 
 ### 💎 **ACHIEVEMENT TROPHIES**
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ahsani-raza&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Issues" alt="GitHub Trophies" />
+<img src="https://github-profile-trophy.vercel.app/?username=Ahsaniss&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=2&column=4&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Issues" alt="GitHub Trophies" />
 </div>
 
 ### 📊 **CONTRIBUTION GRAPH**
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ahsani-raza&theme=react-dark&hide_border=true&bg_color=0d1117&color=00d4ff&line=ff0080&point=ffd700&area=true&area_color=8a2be2" alt="Contribution Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ahsaniss&theme=react-dark&hide_border=true&bg_color=0d1117&color=00d4ff&line=ff0080&point=ffd700&area=true&area_color=8a2be2" alt="Contribution Graph" />
 </div>
 
 </div>
@@ -427,7 +427,7 @@
 <a href="mailto:ahsanraza858585@gmail.com">
 <img src="https://img.shields.io/badge/⚡_EMAIL-Let's_Create_Magic_Together-FF0080?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" />
 </a>
-<a href="https://github.com/ahsani-raza" target="_blank">
+<a href="https://github.com/Ahsaniss" target="_blank">
 <img src="https://img.shields.io/badge/🔮_GITHUB-Follow_My_Code_Journey-8A2BE2?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
 </a>
 <a href="https://linkedin.com/in/muhammad-ahsan-raza" target="_blank">
@@ -446,7 +446,7 @@
 ### 💎 **"CODE • INNOVATE • TRANSCEND"** 💎
 <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100" />
 
-<img src="https://komarev.com/ghpvc/?username=ahsani-raza&style=for-the-badge&color=00D4FF&labelColor=0d1117&label=QUANTUM+VISITORS" alt="Quantum Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=Ahsaniss&style=for-the-badge&color=00D4FF&labelColor=0d1117&label=QUANTUM+VISITORS" alt="Quantum Profile Views" />
 </div>
 
 </div>
