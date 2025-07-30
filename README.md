@@ -3,8 +3,10 @@
 <div align="center">
 
 <!-- Epic Header with Consistent Gradient -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,30,35&height=200&section=header&text=MUHAMMAD%20AHSAN%20RAZA&fontSize=50&fontColor=00D9FF&animation=fadeIn&fontAlignY=35&desc=%E2%9C%A8%20Digital%20Architect%20%7C%20AI%20Visionary%20%E2%9C%A8&descAlignY=55&descSize=20&descColor=64FFDA"/>
 
-
+<!-- Enhanced Terminal Animation -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=1000&height=120&lines=%F0%9F%92%8E+AI-Powered+Software+Engineer+%26+Innovator;%F0%9F%9A%80+Full-Stack+Developer+%7C+UI%2FUX+Architect;%E2%9C%A8+Building+Tomorrow's+Digital+Experiences;%F0%9F%94%A5+Transforming+Visions+into+Reality;%F0%9F%8C%9F+Creating+Solutions+That+Matter" />
 
 <!-- Professional Avatar Space -->
 <br>
