@@ -2,11 +2,11 @@
 
 <div align="center">
 
-<!-- Epic Header with Consistent Gradient -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,30,35&height=200&section=header&text=MUHAMMAD%20AHSAN%20RAZA&fontSize=50&fontColor=00D9FF&animation=fadeIn&fontAlignY=35&desc=%E2%9C%A8%20Digital%20Architect%20%7C%20AI%20Visionary%20%E2%9C%A8&descAlignY=55&descSize=20&descColor=64FFDA"/>
+<!-- Epic Header with Dark Theme -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,1,2,3,4&height=200&section=header&text=MUHAMMAD%20AHSAN%20RAZA&fontSize=50&fontColor=E6E6FA&animation=fadeIn&fontAlignY=35&desc=%E2%9C%A8%20Digital%20Architect%20%7C%20AI%20Visionary%20%E2%9C%A8&descAlignY=55&descSize=20&descColor=9370DB"/>
 
-<!-- Enhanced Terminal Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=1000&height=120&lines=%F0%9F%92%8E+AI-Powered+Software+Engineer+%26+Innovator;%F0%9F%9A%80+Full-Stack+Developer+%7C+UI%2FUX+Architect;%E2%9C%A8+Building+Tomorrow's+Digital+Experiences;%F0%9F%94%A5+Transforming+Visions+into+Reality;%F0%9F%8C%9F+Creating+Solutions+That+Matter" />
+<!-- Enhanced Terminal Animation with Dark Theme -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=9370DB&center=true&vCenter=true&multiline=true&width=1000&height=120&lines=%F0%9F%92%8E+AI-Powered+Software+Engineer+%26+Innovator;%F0%9F%9A%80+Full-Stack+Developer+%7C+UI%2FUX+Architect;%E2%9C%A8+Building+Tomorrow's+Digital+Experiences;%F0%9F%94%A5+Transforming+Visions+into+Reality;%F0%9F%8C%9F+Creating+Solutions+That+Matter" />
 
 </div>
 
@@ -16,14 +16,14 @@
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌟_PORTFOLIO-Explore_Universe-00D9FF?style=for-the-badge&logoColor=white&labelColor=1a1a2e)](https://ahsani-raza.vercel.app/)
-[![Email](https://img.shields.io/badge/⚡_EMAIL-Connect_Now-64FFDA?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1a1a2e)](mailto:ahsanraza858585@gmail.com)
-[![GitHub](https://img.shields.io/badge/🔮_GITHUB-Follow_Journey-BB86FC?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1a2e)](https://github.com/Ahsaniss)
-[![LinkedIn](https://img.shields.io/badge/💫_LINKEDIN-Professional-FF6B9D?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1a1a2e)](https://linkedin.com/in/muhammad-ahsan-raza)
+[![Portfolio](https://img.shields.io/badge/🌟_PORTFOLIO-Explore_Universe-9370DB?style=for-the-badge&logoColor=white&labelColor=2D1B69)](https://ahsani-raza.vercel.app/)
+[![Email](https://img.shields.io/badge/⚡_EMAIL-Connect_Now-6A5ACD?style=for-the-badge&logo=gmail&logoColor=white&labelColor=2D1B69)](mailto:ahsanraza858585@gmail.com)
+[![GitHub](https://img.shields.io/badge/🔮_GITHUB-Follow_Journey-8A2BE2?style=for-the-badge&logo=github&logoColor=white&labelColor=2D1B69)](https://github.com/Ahsaniss)
+[![LinkedIn](https://img.shields.io/badge/💫_LINKEDIN-Professional-7B68EE?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=2D1B69)](https://linkedin.com/in/muhammad-ahsan-raza)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Ahsaniss&style=for-the-badge&color=00D9FF&labelColor=1a1a2e&label=VISITORS)
-![Followers](https://img.shields.io/github/followers/Ahsaniss?style=for-the-badge&color=64FFDA&labelColor=1a1a2e&logo=github&label=FOLLOWERS)
-![Stars](https://img.shields.io/github/stars/Ahsaniss?style=for-the-badge&color=BB86FC&labelColor=1a1a2e&logo=github&label=STARS)
+![Profile Views](https://komarev.com/ghpvc/?username=Ahsaniss&style=for-the-badge&color=9370DB&labelColor=2D1B69&label=VISITORS)
+![Followers](https://img.shields.io/github/followers/Ahsaniss?style=for-the-badge&color=6A5ACD&labelColor=2D1B69&logo=github&label=FOLLOWERS)
+![Stars](https://img.shields.io/github/stars/Ahsaniss?style=for-the-badge&color=8A2BE2&labelColor=2D1B69&logo=github&label=STARS)
 
 </div>
 
@@ -70,10 +70,10 @@
 
 ### 🏆 **ACHIEVEMENTS UNLOCKED**
 
-![Projects](https://img.shields.io/badge/Projects_Completed-50+-00D9FF?style=for-the-badge&logoColor=white&labelColor=1a1a2e)
-![AI Models](https://img.shields.io/badge/AI_Models_Trained-25+-64FFDA?style=for-the-badge&logoColor=white&labelColor=1a1a2e)
-![Commits](https://img.shields.io/badge/Code_Commits-1000+-BB86FC?style=for-the-badge&logoColor=white&labelColor=1a1a2e)
-![Clients](https://img.shields.io/badge/Happy_Clients-∞-FF6B9D?style=for-the-badge&logoColor=white&labelColor=1a1a2e)
+![Projects](https://img.shields.io/badge/Projects_Completed-50+-9370DB?style=for-the-badge&logoColor=white&labelColor=2D1B69)
+![AI Models](https://img.shields.io/badge/AI_Models_Trained-25+-6A5ACD?style=for-the-badge&logoColor=white&labelColor=2D1B69)
+![Commits](https://img.shields.io/badge/Code_Commits-1000+-8A2BE2?style=for-the-badge&logoColor=white&labelColor=2D1B69)
+![Clients](https://img.shields.io/badge/Happy_Clients-∞-7B68EE?style=for-the-badge&logoColor=white&labelColor=2D1B69)
 
 <br><br>
 
