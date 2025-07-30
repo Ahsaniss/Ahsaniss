@@ -5,7 +5,9 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=MUHAMMAD%20AHSAN%20RAZA&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=✨%20Digital%20Architect%20%7C%20AI%20Visionary%20✨&descAlignY=55&descSize=20"/>
 
 <!-- Enhanced Holographic Terminal Animation -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=00D4FF&background=00000000&center=true&vCenter=true&multiline=true&width=1000&height=120&lines=💎+AI-Powered+Software+Engineer+%26+Innovator;🚀+Full-Stack+Developer+%7C+UI%2FUX+Architect;✨+Building+Tomorrow's+Digital+Experiences;🔥+Transforming+Visions+into+Intelligent+Reality;🌟+Creating+Solutions+That+Matter" alt="Holographic Terminal" />
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&width=1000&height=120&lines=💎+AI-Powered+Software+Engineer+%26+Innovator;🚀+Full-Stack+Developer+%7C+UI%2FUX+Architect;✨+Building+Tomorrow's+Digital+Experiences;🔥+Transforming+Visions+into+Intelligent+Reality;🌟+Creating+Solutions+That+Matter" alt="Holographic Terminal Animation" />
+</div>
 
 <!-- Floating Orb Animation with Glow Effect -->
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="700">
@@ -122,13 +124,13 @@
 
 ### 🧠 **AI & MACHINE LEARNING COSMOS**
 <p>
-<img src="https://img.shields.io/badge/🤖_Gemini_AI-00D4FF?style=for-the-badge&logo=google&logoColor=white&labelColor=0A0A0A" />
-<img src="https://img.shields.io/badge/🤗_Hugging_Face-FF0080?style=for-the-badge&logo=huggingface&logoColor=white&labelColor=0A0A0A" />
-<img src="https://img.shields.io/badge/OpenAI-8A2BE2?style=for-the-badge&logo=openai&logoColor=white&labelColor=0A0A0A" />
-<img src="https://img.shields.io/badge/TensorFlow-00FF7F?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=0A0A0A" />
-<img src="https://img.shields.io/badge/PyTorch-FFD700?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=0A0A0A" />
-<img src="https://img.shields.io/badge/Keras-FF6B6B?style=for-the-badge&logo=keras&logoColor=white&labelColor=0A0A0A" />
-<img src="https://img.shields.io/badge/Scikit_Learn-4ECDC4?style=for-the-badge&logo=scikitlearn&logoColor=white&labelColor=0A0A0A" />
+<img src="https://img.shields.io/badge/🤖_Gemini_AI-00D4FF?style=for-the-badge&logo=google&logoColor=white&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/🤗_Hugging_Face-FF0080?style=for-the-badge&logo=huggingface&logoColor=white&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/OpenAI-8A2BE2?style=for-the-badge&logo=openai&logoColor=white&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/TensorFlow-00FF7F?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/PyTorch-FFD700?style=for-the-badge&logo=pytorch&logoColor=white&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Keras-FF6B6B?style=for-the-badge&logo=keras&logoColor=white&labelColor=0d1117" />
+<img src="https://img.shields.io/badge/Scikit_Learn-4ECDC4?style=for-the-badge&logo=scikitlearn&logoColor=white&labelColor=0d1117" />
 </p>
 
 ### ☁️ **CLOUD & DEVOPS UNIVERSE**
@@ -154,7 +156,9 @@
 <td width="50%" valign="top">
 
 ### 🩺 **GLUCO GUIDE** ✨
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ahsani-raza&repo=gluco-guide&theme=tokyonight&hide_border=true&bg_color=0A0A0A&title_color=00D4FF&text_color=FFFFFF&icon_color=FF0080" />
+<div align="center">
+<img src="https://via.placeholder.com/400x200/0d1117/00D4FF?text=🩺+GLUCO+GUIDE+✨" alt="Gluco Guide Project" />
+</div>
 
 **🌟 AI-Powered Diabetes Companion**
 - 🧠 Advanced ML health predictions  
@@ -163,16 +167,20 @@
 - 💊 Smart medication reminders
 - 📱 Cross-platform compatibility
 
-<img src="https://img.shields.io/badge/Python-00D4FF?style=flat&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/AI-FF0080?style=flat" />
-<img src="https://img.shields.io/badge/Healthcare-00FF7F?style=flat" />
-<img src="https://img.shields.io/badge/ML-8A2BE2?style=flat" />
+<div align="center">
+<img src="https://img.shields.io/badge/Python-00D4FF?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/AI-FF0080?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Healthcare-00FF7F?style=for-the-badge" />
+<img src="https://img.shields.io/badge/ML-8A2BE2?style=for-the-badge" />
+</div>
 
 </td>
 <td width="50%" valign="top">
 
 ### 🧠 **OMNIAI TOOLKIT** 🚀
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ahsani-raza&repo=omniai-toolkit&theme=tokyonight&hide_border=true&bg_color=0A0A0A&title_color=00D4FF&text_color=FFFFFF&icon_color=8A2BE2" />
+<div align="center">
+<img src="https://via.placeholder.com/400x200/0d1117/8A2BE2?text=🧠+OMNIAI+TOOLKIT+🚀" alt="OmniAI Toolkit Project" />
+</div>
 
 **🎭 Ultimate AI Productivity Suite**
 - 🤖 Multi-model AI orchestration
@@ -181,10 +189,12 @@
 - 🎨 Visual AI integration
 - 🌐 Cloud-native architecture
 
-<img src="https://img.shields.io/badge/React-00D4FF?style=flat&logo=react&logoColor=white" />
-<img src="https://img.shields.io/badge/AI-FF0080?style=flat" />
-<img src="https://img.shields.io/badge/Cloud-00FF7F?style=flat" />
-<img src="https://img.shields.io/badge/Productivity-FFD700?style=flat" />
+<div align="center">
+<img src="https://img.shields.io/badge/React-00D4FF?style=for-the-badge&logo=react&logoColor=white" />
+<img src="https://img.shields.io/badge/AI-FF0080?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Cloud-00FF7F?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Productivity-FFD700?style=for-the-badge" />
+</div>
 
 </td>
 </tr>
@@ -193,7 +203,9 @@
 <td width="50%" valign="top">
 
 ### 🌿 **NEURAL HEALTH PREDICTOR** 🔮
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ahsani-raza&repo=neural-health-predictor&theme=tokyonight&hide_border=true&bg_color=0A0A0A&title_color=00D4FF&text_color=FFFFFF&icon_color=00FF7F" />
+<div align="center">
+<img src="https://via.placeholder.com/400x200/0d1117/00FF7F?text=🌿+NEURAL+HEALTH+PREDICTOR+🔮" alt="Neural Health Predictor Project" />
+</div>
 
 **🧬 Quantum ML Health Diagnostics**
 - 🔬 Deep learning algorithms
@@ -202,16 +214,20 @@
 - 🎯 Early disease detection
 - 📊 Visual health insights
 
-<img src="https://img.shields.io/badge/Deep_Learning-8A2BE2?style=flat" />
-<img src="https://img.shields.io/badge/Python-00D4FF?style=flat&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/TensorFlow-00FF7F?style=flat" />
-<img src="https://img.shields.io/badge/Healthcare-FF0080?style=flat" />
+<div align="center">
+<img src="https://img.shields.io/badge/Deep_Learning-8A2BE2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Python-00D4FF?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow-00FF7F?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Healthcare-FF0080?style=for-the-badge" />
+</div>
 
 </td>
 <td width="50%" valign="top">
 
 ### 🎮 **STORYFORGE NEXUS** 💫
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ahsani-raza&repo=storyforge-nexus&theme=tokyonight&hide_border=true&bg_color=0A0A0A&title_color=00D4FF&text_color=FFFFFF&icon_color=FFD700" />
+<div align="center">
+<img src="https://via.placeholder.com/400x200/0d1117/FFD700?text=🎮+STORYFORGE+NEXUS+💫" alt="StoryForge Nexus Project" />
+</div>
 
 **🎯 AI Game Design Architect**
 - 🎨 Procedural narrative generation
@@ -220,10 +236,12 @@
 - 🌍 World-building algorithms
 - 🎪 Interactive story weaving
 
-<img src="https://img.shields.io/badge/AI-FF0080?style=flat" />
-<img src="https://img.shields.io/badge/Game_Dev-FFD700?style=flat" />
-<img src="https://img.shields.io/badge/Creative-8A2BE2?style=flat" />
-<img src="https://img.shields.io/badge/NLP-00FF7F?style=flat" />
+<div align="center">
+<img src="https://img.shields.io/badge/AI-FF0080?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Game_Dev-FFD700?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Creative-8A2BE2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/NLP-00FF7F?style=for-the-badge" />
+</div>
 
 </td>
 </tr>
@@ -232,7 +250,9 @@
 <td width="50%" valign="top">
 
 ### 📄 **OMNI DOCUMENT AI** 🌐
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ahsani-raza&repo=omni-document-ai&theme=tokyonight&hide_border=true&bg_color=0A0A0A&title_color=00D4FF&text_color=FFFFFF&icon_color=FF0080" />
+<div align="center">
+<img src="https://via.placeholder.com/400x200/0d1117/FF0080?text=📄+OMNI+DOCUMENT+AI+🌐" alt="Omni Document AI Project" />
+</div>
 
 **🌍 Universal Document Intelligence**
 - 🗣️ 150+ language support
@@ -241,16 +261,20 @@
 - 🔄 Real-time translation
 - 🧠 Contextual understanding
 
-<img src="https://img.shields.io/badge/NLP-00D4FF?style=flat" />
-<img src="https://img.shields.io/badge/Multilingual-FF0080?style=flat" />
-<img src="https://img.shields.io/badge/Voice_AI-00FF7F?style=flat" />
-<img src="https://img.shields.io/badge/Python-8A2BE2?style=flat&logo=python&logoColor=white" />
+<div align="center">
+<img src="https://img.shields.io/badge/NLP-00D4FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Multilingual-FF0080?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Voice_AI-00FF7F?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Python-8A2BE2?style=for-the-badge&logo=python&logoColor=white" />
+</div>
 
 </td>
 <td width="50%" valign="top">
 
 ### 🎨 **QUANTUM VISUAL AI** ✨
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=ahsani-raza&repo=quantum-visual-ai&theme=tokyonight&hide_border=true&bg_color=0A0A0A&title_color=00D4FF&text_color=FFFFFF&icon_color=8A2BE2" />
+<div align="center">
+<img src="https://via.placeholder.com/400x200/0d1117/8A2BE2?text=🎨+QUANTUM+VISUAL+AI+✨" alt="Quantum Visual AI Project" />
+</div>
 
 **🖼️ Next-Gen AI Art Generator**
 - 🎭 Photorealistic image synthesis
@@ -259,10 +283,12 @@
 - 🌈 Infinite creative possibilities
 - ☁️ Scalable cloud processing
 
-<img src="https://img.shields.io/badge/Stable_Diffusion-FFD700?style=flat" />
-<img src="https://img.shields.io/badge/Computer_Vision-FF0080?style=flat" />
-<img src="https://img.shields.io/badge/Creative_AI-00FF7F?style=flat" />
-<img src="https://img.shields.io/badge/Cloud-00D4FF?style=flat" />
+<div align="center">
+<img src="https://img.shields.io/badge/Stable_Diffusion-FFD700?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Computer_Vision-FF0080?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Creative_AI-00FF7F?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Cloud-00D4FF?style=for-the-badge" />
+</div>
 
 </td>
 </tr>
@@ -282,27 +308,27 @@
 <table>
 <tr>
 <td align="center" width="20%">
-<img src="https://img.shields.io/badge/🧠_Generative_AI-00D4FF?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=0A0A0A" /><br>
+<img src="https://img.shields.io/badge/🧠_Generative_AI-00D4FF?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=0d1117" /><br>
 <sub><b>🌟 AWS Educate</b></sub><br>
 <sub>Advanced AI Mastery</sub>
 </td>
 <td align="center" width="20%">
-<img src="https://img.shields.io/badge/🔍_ML_Foundations-FF0080?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=0A0A0A" /><br>
+<img src="https://img.shields.io/badge/🔍_ML_Foundations-FF0080?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=0d1117" /><br>
 <sub><b>⚡ Amazon Web Services</b></sub><br>
 <sub>Machine Intelligence</sub>
 </td>
 <td align="center" width="20%">
-<img src="https://img.shields.io/badge/☁️_AI_on_Azure-8A2BE2?style=for-the-badge&logo=microsoftazure&logoColor=white&labelColor=0A0A0A" /><br>
+<img src="https://img.shields.io/badge/☁️_AI_on_Azure-8A2BE2?style=for-the-badge&logo=microsoftazure&logoColor=white&labelColor=0d1117" /><br>
 <sub><b>💫 Microsoft Azure</b></sub><br>
 <sub>Cloud AI Architecture</sub>
 </td>
 <td align="center" width="20%">
-<img src="https://img.shields.io/badge/🧠_AI_Fundamentals-00FF7F?style=for-the-badge&logo=microsoftazure&logoColor=white&labelColor=0A0A0A" /><br>
+<img src="https://img.shields.io/badge/🧠_AI_Fundamentals-00FF7F?style=for-the-badge&logo=microsoftazure&logoColor=white&labelColor=0d1117" /><br>
 <sub><b>🔮 Azure AI-900</b></sub><br>
 <sub>Cognitive Services</sub>
 </td>
 <td align="center" width="20%">
-<img src="https://img.shields.io/badge/📊_Project_Mastery-FFD700?style=for-the-badge&logo=google&logoColor=white&labelColor=0A0A0A" /><br>
+<img src="https://img.shields.io/badge/📊_Project_Mastery-FFD700?style=for-the-badge&logo=google&logoColor=white&labelColor=0d1117" /><br>
 <sub><b>🌟 Google Certified</b></sub><br>
 <sub>Leadership Excellence</sub>
 </td>
@@ -313,19 +339,19 @@
 <table>
 <tr>
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/💬_Communication-00D4FF?style=for-the-badge&logo=googlescholar&logoColor=white&labelColor=0A0A0A" /><br>
+<img src="https://img.shields.io/badge/💬_Communication-00D4FF?style=for-the-badge&logo=googlescholar&logoColor=white&labelColor=0d1117" /><br>
 <sub><b>Georgia Institute of Technology</b></sub>
 </td>
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/🔧_IoT_Architecture-FF0080?style=for-the-badge&logo=arduino&logoColor=white&labelColor=0A0A0A" /><br>
+<img src="https://img.shields.io/badge/🔧_IoT_Architecture-FF0080?style=for-the-badge&logo=arduino&logoColor=white&labelColor=0d1117" /><br>
 <sub><b>Higher Education Commission</b></sub>
 </td>
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/⚡_Algorithm_Design-8A2BE2?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0A0A0A" /><br>
+<img src="https://img.shields.io/badge/⚡_Algorithm_Design-8A2BE2?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=0d1117" /><br>
 <sub><b>Advanced Computing Systems</b></sub>
 </td>
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/🚀_Innovation_Leader-00FF7F?style=for-the-badge&logo=rocket&logoColor=white&labelColor=0A0A0A" /><br>
+<img src="https://img.shields.io/badge/🚀_Innovation_Leader-00FF7F?style=for-the-badge&logo=rocket&logoColor=white&labelColor=0d1117" /><br>
 <sub><b>Future Tech Certification</b></sub>
 </td>
 </tr>
@@ -393,19 +419,19 @@
 
 <p>
 <a href="https://ahsani-raza.vercel.app/" target="_blank">
-<img src="https://img.shields.io/badge/🌐_PORTFOLIO-Experience_My_Digital_Universe-00D4FF?style=for-the-badge&logoColor=white&labelColor=0A0A0A" />
+<img src="https://img.shields.io/badge/🌐_PORTFOLIO-Experience_My_Digital_Universe-00D4FF?style=for-the-badge&logoColor=white&labelColor=0d1117" />
 </a>
 </p>
 
 <p>
 <a href="mailto:ahsanraza858585@gmail.com">
-<img src="https://img.shields.io/badge/⚡_EMAIL-Let's_Create_Magic_Together-FF0080?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0A0A0A" />
+<img src="https://img.shields.io/badge/⚡_EMAIL-Let's_Create_Magic_Together-FF0080?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" />
 </a>
 <a href="https://github.com/ahsani-raza" target="_blank">
-<img src="https://img.shields.io/badge/🔮_GITHUB-Follow_My_Code_Journey-8A2BE2?style=for-the-badge&logo=github&logoColor=white&labelColor=0A0A0A" />
+<img src="https://img.shields.io/badge/🔮_GITHUB-Follow_My_Code_Journey-8A2BE2?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
 </a>
 <a href="https://linkedin.com/in/muhammad-ahsan-raza" target="_blank">
-<img src="https://img.shields.io/badge/💫_LINKEDIN-Professional_Networking-00FF7F?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A0A0A" />
+<img src="https://img.shields.io/badge/💫_LINKEDIN-Professional_Networking-00FF7F?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" />
 </a>
 </p>
 
