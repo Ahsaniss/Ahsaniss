@@ -5,10 +5,13 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=MUHAMMAD%20AHSAN%20RAZA&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=✨%20Digital%20Architect%20%7C%20AI%20Visionary%20✨&descAlignY=55&descSize=20"/>
 
 <!-- Enhanced Holographic Terminal Animation -->
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&width=1000&height=120&lines=💎+AI-Powered+Software+Engineer+%26+Innovator;🚀+Full-Stack+Developer+%7C+UI%2FUX+Architect;✨+Building+Tomorrow's+Digital+Experiences;🔥+Transforming+Visions+into+Intelligent+Reality;🌟+Creating+Solutions+That+Matter" alt="Holographic Terminal Animation" />
+</div>
 
 
 <!-- Floating Orb Animation with Glow Effect -->
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="700">
+<img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="700">
 </div>
 
 <!-- Enhanced Holographic Social Constellation -->
@@ -37,7 +40,7 @@
 </div>
 
 <!-- Prismatic Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<img src="https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif" width="100%">
 
 </div>
 
@@ -46,7 +49,7 @@
 <tr>
 <td width="60%" valign="top">
 
-## <img src="https://user-images.githubusercontent.com/74038190/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="40px" /> **DIGITAL ARCHITECT PROFILE**
+## <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40px" /> **DIGITAL ARCHITECT PROFILE**
 
 ```yaml
 ╭─ IDENTITY MATRIX ─────────────────────────╮
@@ -73,21 +76,21 @@
 
 ### 💎 **CREATIVE PHILOSOPHY**
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385b1974f3.gif" width="100" />
+<img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="100" />
 </div>
 
 > *"Every line of code is a brushstroke in the masterpiece of tomorrow. I don't just build software—I craft digital experiences that bridge the gap between human dreams and technological reality. Innovation isn't just what I do; it's who I am."*
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="50" />
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="50" />
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="50" />
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="50" />
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50" />
+<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="50" />
 </div>
 
 </td>
 <td width="40%" valign="top" align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="100%" />
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="100%" />
 
 ### 🏆 **ACHIEVEMENTS UNLOCKED**
 <div align="center">
@@ -98,9 +101,9 @@
 
 <!-- Progress Bars with Animation -->
 <br><br>
-<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="30" />
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="30" />
 <span style="font-size: 16px; color: #00D4FF; font-weight: bold;"> LEVEL: EXPERT DEVELOPER </span>
-<img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="30" />
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="30" />
 </div>
 
 </td>
@@ -108,9 +111,9 @@
 </table>
 
 <!-- Holographic Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<img src="https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif" width="100%">
 
-## <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385b1974f3.gif" width="45px" /> **QUANTUM TECH ARSENAL**
+## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="45px" /> **QUANTUM TECH ARSENAL**
 
 <div align="center">
 
@@ -143,9 +146,9 @@
 </div>
 
 <!-- Quantum Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<img src="https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif" width="100%">
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="45px" /> **LEGENDARY PROJECT PORTFOLIO**
+## <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="45px" /> **LEGENDARY PROJECT PORTFOLIO**
 
 <div align="center">
 
@@ -295,9 +298,9 @@
 </div>
 
 <!-- Holographic Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<img src="https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif" width="100%">
 
-## <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="45px" /> **LEGENDARY CERTIFICATIONS**
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="45px" /> **LEGENDARY CERTIFICATIONS**
 
 <div align="center">
 
@@ -358,9 +361,9 @@
 </div>
 
 <!-- Quantum Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<img src="https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif" width="100%">
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="45px" /> **QUANTUM PERFORMANCE METRICS**
+## <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="45px" /> **QUANTUM PERFORMANCE METRICS**
 
 <div align="center">
 
@@ -405,13 +408,13 @@
 </div>
 
 <!-- Holographic Divider -->
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<img src="https://media.giphy.com/media/xTiTnxpQ3ghPiB2Hp6/giphy.gif" width="100%">
 
-## <img src="https://user-images.githubusercontent.com/74038190/235294019-40007353-6219-4ec5-b661-b3c35136dd0b.gif" width="45px" /> **QUANTUM CONNECTION PORTAL**
+## <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="45px" /> **QUANTUM CONNECTION PORTAL**
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400">
 
 ### 🌟 **JOIN THE DIGITAL REVOLUTION** 🌟
 
@@ -439,10 +442,10 @@
 </div>
 
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-b9e5b89248d7.gif" width="150" />
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="150" />
 
 ### 💎 **"CODE • INNOVATE • TRANSCEND"** 💎
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100" />
+<img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="100" />
 
 <img src="https://komarev.com/ghpvc/?username=Ahsaniss&style=for-the-badge&color=00D4FF&labelColor=0d1117&label=QUANTUM+VISITORS" alt="Quantum Profile Views" />
 </div>
@@ -454,11 +457,11 @@
 
 <!-- Thank You Message -->
 <div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="50" />
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="50" />
 <br>
 <b>Thank you for visiting my digital universe! 🌟</b>
 <br>
-<img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="50" />
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="50" />
 </div>
 
 </div>
