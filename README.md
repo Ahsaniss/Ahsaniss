@@ -5,9 +5,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=MUHAMMAD%20AHSAN%20RAZA&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=✨%20Digital%20Architect%20%7C%20AI%20Visionary%20✨&descAlignY=55&descSize=20"/>
 
 <!-- Enhanced Holographic Terminal Animation -->
-<div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&multiline=true&width=1000&height=120&lines=💎+AI-Powered+Software+Engineer+%26+Innovator;🚀+Full-Stack+Developer+%7C+UI%2FUX+Architect;✨+Building+Tomorrow's+Digital+Experiences;🔥+Transforming+Visions+into+Intelligent+Reality;🌟+Creating+Solutions+That+Matter" alt="Holographic Terminal Animation" />
-</div>
+
 
 <!-- Floating Orb Animation with Glow Effect -->
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="700">
