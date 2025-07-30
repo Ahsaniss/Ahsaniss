@@ -11,7 +11,7 @@
 
 
 <!-- Floating Orb Animation with Glow Effect -->
-<img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="700">
+<img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="100">
 </div>
 
 <!-- Enhanced Holographic Social Constellation -->
