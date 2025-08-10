@@ -1,78 +1,93 @@
 <!-- HEADER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Hi,%20I'm%20[Your%20Name]!&fontSize=40&fontAlignY=35&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Muhammad%20Ahsan%20Raza&fontSize=40&fontAlignY=35&animation=fadeIn" />
   
-  <h3>🚀 AI Engineer | Full-Stack Developer | Cloud Enthusiast</h3>
-  
+  <h3>🚀 Software Engineer | AI-Powered Solutions | Full-Stack Development</h3>
   <p>
-    Building intelligent systems, crafting elegant code, and automating the boring stuff.  
-    Passionate about ML, backend scalability, and open-source.
+    Passionate about crafting intelligent, scalable, and user-centric solutions —  
+    blending AI innovation with robust full-stack engineering.
   </p>
 
-  <!-- KEYWORD BOOST for SEO -->
-  <p align="center">
-    <strong>AI Engineer · Machine Learning · Full-Stack Developer · Python · JavaScript · Cloud Computing · DevOps · Automation · Backend Development</strong>
-  </p>
-
-  <!-- CONNECT BUTTONS -->
+  <!-- CONNECT -->
   <p>
-    <a href="https://linkedin.com/in/YOURUSERNAME" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-    <a href="mailto:youremail@example.com">
-      <img src="https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>
-    <a href="https://yourportfolio.com">
-      <img src="https://img.shields.io/badge/Portfolio-FF7139.svg?style=for-the-badge&logo=firefox&logoColor=white" />
-    </a>
+    <a href="mailto:ahsanraza858585@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+    <a href="https://linkedin.com/in/muhammad-ahsan-raza"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    <a href="https://ahsani-raza.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white" /></a>
+    <a href="https://github.com/Ahsaniss"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
   </p>
 </div>
 
 ---
 
-## 🔥 Skills
-<div align="center">
-
-| **Category**         | **Technologies** |
-|----------------------|------------------|
-| **Languages**        | ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black) ![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white) |
-| **Frontend**         | ![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black) ![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white) |
-| **Backend**          | ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white) |
-| **Cloud & DevOps**   | ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) |
-| **Databases**        | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white) |
-| **ML/DL**            | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white) |
-
-</div>
+## 🎯 About Me
+- 💡 **AI & ML Enthusiast** — Specializing in AI-powered applications, chatbots, and automation.
+- 💻 **Full-Stack Developer** — Skilled in Python, C#, JavaScript, and modern frameworks.
+- ☁️ **Cloud-Ready** — Experienced with AWS, Azure, and containerized deployments.
+- 🎨 **UI/UX Designer** — Crafting intuitive, beautiful, and functional interfaces.
+- 📍 Based in **Faisalabad, Pakistan**.
 
 ---
 
-## 🚀 Projects
-- **[Project Name](https://github.com/yourusername/project)** — Brief description of what it does and tech used.  
-- **[Another Project](https://github.com/yourusername/project2)** — Solves XYZ problem using ABC.  
-- **[Cool ML Model](https://github.com/yourusername/project3)** — Trained on N data points to achieve Z% accuracy.  
+## 🛠️ Technical Expertise
+| Area | Skills |
+|------|--------|
+| **AI & ML** | Gemini AI, TensorFlow, PyTorch, Scikit-learn, Computer Vision |
+| **Languages** | Python, C#, JavaScript, HTML, CSS |
+| **Frontend** | React.js, Next.js, Angular, Vue.js |
+| **Backend** | Node.js, Express.js, Django, Flask |
+| **Databases** | MySQL, MongoDB, PostgreSQL |
+| **Cloud & DevOps** | AWS, Microsoft Azure, Docker, GitHub Actions |
+| **Design & Modeling** | Figma, Canva, Lucidchart, ERDPlus |
+| **Version Control** | Git, GitHub |
+| **Project Management** | Trello, Scrum, Notion, Google Workspace |
+
+---
+
+## 🚀 Highlight Projects
+- **Iris Flower Classification** — ML model using Random Forest for accurate species prediction.
+- **Gluco Guide** — AI-powered diabetes assistant with personalized diet and health insights.
+- **Disease Prediction System** — Used Linear Regression & SVM to suggest diagnoses.
+- **OmniAI Toolkit** — Multi-functional AI productivity suite.
+- **Graph Generator AI** — Creates mathematical graphs from user input.
+- **PDF Translator & Summarizer** — Multilingual support with voice I/O.
+- **StoryForge** — AI-based Game Design Document generator.
+- **Medical Chatbot** — Gemini AI-based symptom & food recommendation system.
+- **Text-to-Image Tool** — Built using Hugging Face models in Google Colab.
+
+---
+
+## 🏆 Certifications
+- **AWS Educate:** Introduction to Generative AI  
+- **Machine Learning Foundations** – AWS  
+- **AI on Microsoft Azure** – Microsoft (Coursera)  
+- **Computer Vision in Azure** – Microsoft (Coursera)  
+- **Azure AI Fundamentals (AI-900)** – Microsoft  
+- **Azure Machine Learning** – Microsoft  
+- **Google Project Management Specialization**  
+- **IoT for Everyone** – HEC Pakistan (Coursera)  
+- **Algorithm Design to Prototype** – HEC Pakistan  
 
 ---
 
 ## 📊 GitHub Stats
 <div align="center">
 
-| ![Stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=radical) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=radical) |
+| ![Stats](https://github-readme-stats.vercel.app/api?username=Ahsaniss&show_icons=true&theme=radical) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahsaniss&layout=compact&theme=radical) |
 |---|---|
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOURUSERNAME&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ahsaniss&theme=radical)
 
 </div>
 
 ---
 
-## 🌱 Fun Facts
-- 🔭 Currently working on: **AI-powered productivity tools**
-- 📚 Learning: **Rust + MLOps pipelines**
-- ⚡ Fun fact: I once debugged code in a moving train without WiFi.
+## 🌟 Let’s Connect
+📧 **Email:** [ahsanraza858585@gmail.com](mailto:ahsanraza858585@gmail.com)  
+🌐 **Portfolio:** [ahsani-raza.vercel.app](https://ahsani-raza.vercel.app/)  
+💼 **LinkedIn:** [Muhammad Ahsan Raza](https://linkedin.com/in/muhammad-ahsan-raza)  
 
 ---
 
-<!-- FOOTER -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
 </div>
