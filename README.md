@@ -190,7 +190,7 @@ const ahsanRaza = {
 
 <!-- TROPHIES -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ahsaniss&theme=tokyonight&no-frame=true&no-bg=false&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Ahsaniss&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&margin-h=4&row=2&column=4" alt="GitHub Trophies" />
 </p>
 
 ---
