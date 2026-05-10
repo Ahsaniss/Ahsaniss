@@ -1,32 +1,34 @@
 <div align="center">
 
-<!-- ░░░░░░░░░░░░░░░░░░ HEADER ░░░░░░░░░░░░░░░░░░ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:070510,60:150f32,100:4632a8&height=220&section=header&text=Muhammad%20Ahsan%20Raza&fontSize=50&fontColor=c8b8ff&fontAlignY=40&animation=fadeIn&desc=✦%20Software%20Engineer%20%20·%20%20AI%20Architect%20%20·%20%20Full-Stack%20Developer%20✦&descFontColor=9d85e8&descSize=16&descAlignY=62"/>
+<!-- ░░░░░░░░░░░░░░░░ VS CODE DARK HEADER ░░░░░░░░░░░░░░░░ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,40:1e1e1e,100:3832a8&height=210&section=header&text=Muhammad%20Ahsan%20Raza&fontSize=50&fontColor=d4d4d4&fontAlignY=40&animation=fadeIn&desc=◆%20Software%20Engineer%20%20|%20%20AI%20Architect%20%20|%20%20Full-Stack%20Developer%20◆&descFontColor=9d85e8&descSize=15&descAlignY=62"/>
 
 <br/>
 
-<!-- TYPING -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=21&duration=3000&pause=900&color=A78BFA&background=00000000&center=true&vCenter=true&width=780&lines=✦+Architecting+AI-Powered+Intelligent+Systems+✦;✦+Engineering+Scalable+Full-Stack+Solutions+✦;✦+Cloud-Native+%26+DevOps+Excellence+✦;✦+Turning+Vision+into+Intelligent+Reality+✦)](https://git.io/typing-svg)
+<!-- VS CODE STYLE TYPING — monospace, dense -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=800&color=9D85E8&background=1E1E1E00&center=true&vCenter=true&width=760&lines=//+Architecting+AI-Powered+Intelligent+Systems;//+Engineering+Scalable+Full-Stack+Solutions;//+Cloud-Native+%26+DevOps+Automation;//+const+passion+%3D+%22turning+ideas+into+reality%22;//+status%3A+open_to_work+%3D+true+%E2%9C%94)](https://git.io/typing-svg)
 
 <br/>
 
-<!-- STAT BADGES — glassy purple tones -->
-![Views](https://komarev.com/ghpvc/?username=Ahsaniss&label=◈+PROFILE+VIEWS&color=4632a8&style=for-the-badge&labelColor=150f32)
+<!-- STAT BADGES -->
+![Views](https://komarev.com/ghpvc/?username=Ahsaniss&label=PROFILE_VIEWS&color=3832a8&style=for-the-badge&labelColor=252526)
 &nbsp;
-![Followers](https://img.shields.io/github/followers/Ahsaniss?label=◈+FOLLOWERS&style=for-the-badge&color=4632a8&labelColor=150f32)
+![Followers](https://img.shields.io/github/followers/Ahsaniss?label=FOLLOWERS&style=for-the-badge&color=3832a8&labelColor=252526)
 &nbsp;
-![Status](https://img.shields.io/badge/◈_STATUS-OPEN__TO__WORK-4632a8?style=for-the-badge&labelColor=150f32)
+![Status](https://img.shields.io/badge/STATUS-OPEN__TO__WORK-3832a8?style=for-the-badge&labelColor=252526)
+&nbsp;
+![Location](https://img.shields.io/badge/📍-Faisalabad%2C_PK-3832a8?style=for-the-badge&labelColor=252526)
 
 <br/><br/>
 
-<!-- SOCIAL LINKS -->
-[![Gmail](https://img.shields.io/badge/◈_GMAIL-150f32?style=for-the-badge&logo=gmail&logoColor=c8b8ff&labelColor=0e0a21)](mailto:ahsanraza858585@gmail.com)
+<!-- SOCIAL -->
+[![Gmail](https://img.shields.io/badge/GMAIL-252526?style=for-the-badge&logo=gmail&logoColor=ce9178&labelColor=1e1e1e)](mailto:ahsanraza858585@gmail.com)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/◈_LINKEDIN-150f32?style=for-the-badge&logo=linkedin&logoColor=c8b8ff&labelColor=0e0a21)](https://linkedin.com/in/muhammad-ahsan-raza)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-252526?style=for-the-badge&logo=linkedin&logoColor=4ec9b0&labelColor=1e1e1e)](https://linkedin.com/in/muhammad-ahsan-raza)
 &nbsp;
-[![Portfolio](https://img.shields.io/badge/◈_PORTFOLIO-150f32?style=for-the-badge&logo=vercel&logoColor=c8b8ff&labelColor=0e0a21)](https://ahsani-raza.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-252526?style=for-the-badge&logo=vercel&logoColor=dcdcaa&labelColor=1e1e1e)](https://ahsani-raza.vercel.app/)
 &nbsp;
-[![GitHub](https://img.shields.io/badge/◈_GITHUB-150f32?style=for-the-badge&logo=github&logoColor=c8b8ff&labelColor=0e0a21)](https://github.com/Ahsaniss)
+[![GitHub](https://img.shields.io/badge/GITHUB-252526?style=for-the-badge&logo=github&logoColor=d4d4d4&labelColor=1e1e1e)](https://github.com/Ahsaniss)
 
 </div>
 
@@ -34,56 +36,98 @@
 
 ---
 
-## ✦ &nbsp; `whoami`
+## 👨‍💻 &nbsp; about_me.ts
 
 ```typescript
-◈ ══════════════════════════════════════════════════════════════ ◈
+// ─────────────────────────────────────────────────────────────────
+//  📄  src/profile/about_me.ts                          [VS Code]
+// ─────────────────────────────────────────────────────────────────
 
-  const ahsanRaza = {
-    name         :  "Muhammad Ahsan Raza",
-    location     :  "🌍  Faisalabad, Pakistan 🇵🇰",
-    role         :  "Software Engineer & AI Specialist",
-    focus        :  [ "🧠 AI/ML Solutions", "🌐 Full-Stack Dev", "☁️ Cloud Arch" ],
-    learning     :  [ "Deep Learning", "Microservices", "System Design" ],
-    interests    :  [ "Generative AI", "Computer Vision", "DevOps" ],
-    superpower   :  "Turning ☕ coffee into code & 💡 ideas into intelligent systems",
-    available    :  true   // ← open for collaborations & opportunities
-  };
+import  { Developer }  from  "@types/global";
 
-◈ ══════════════════════════════════════════════════════════════ ◈
+const  ahsanRaza: Developer  =  {
+    name        :  "Muhammad Ahsan Raza",          // string
+    location    :  "Faisalabad, Pakistan 🇵🇰",      // string
+    role        :  "Software Engineer & AI Specialist",
+    focus       :  [
+                     "🧠  AI / ML Solutions",
+                     "🌐  Full-Stack Development",
+                     "☁️   Cloud Architecture",
+                   ],
+    learning    :  [ "Deep Learning", "Microservices", "System Design" ],
+    interests   :  [ "Generative AI", "Computer Vision", "DevOps" ],
+    superpower  :  "Turning ☕ coffee → code  &  💡 ideas → intelligent systems",
+    available   :  true,   // ← open for collabs & opportunities
+};
+
+export  default  ahsanRaza;
+
+// ─────────────────────────────────────────────────────────────────
 ```
 
 <details>
-<summary><b>🔮 &nbsp; Expand — My Journey & Philosophy</b></summary>
+<summary><b>🔍 &nbsp; expand: my_journey.md</b></summary>
 <br>
 
-> *✦ "Code with purpose, innovate with passion." ✦*
-
-| Symbol | Area | Detail |
-|:---:|:---|:---|
-| 🎯 | **Mission** | Intelligent, scalable solutions that drive real-world impact |
-| 🌱 | **Exploring** | Advanced ML, cloud-native architectures & AI ethics |
-| 🤝 | **Open To** | Collaborations, freelance & full-time opportunities |
-| 📚 | **Philosophy** | Continuous learning and knowledge sharing |
-| ⚡ | **Fun Fact** | Built medical AI chatbots to game design generators |
+```diff
++ MISSION    →  Intelligent, scalable solutions that drive real-world impact
++ EXPLORING  →  Advanced ML, cloud-native architectures & AI ethics
++ OPEN TO    →  Collaborations, Freelance & Full-time Opportunities
++ BELIEF     →  Continuous learning and knowledge sharing
+! FUN FACT   →  Built medical AI chatbots → game design generators
+```
 
 </details>
 
 ---
 
-## ✦ &nbsp; Tech Arsenal
+## 🛠️ &nbsp; tech_stack.json
+
+```json
+// ─────────────────────────────────────────────────────────────────
+//  📄  config/tech_stack.json
+// ─────────────────────────────────────────────────────────────────
+{
+  "ai_and_ml": [
+    "Gemini AI",  "TensorFlow",  "PyTorch",  "Scikit-Learn",
+    "OpenCV",     "Hugging Face","LangChain", "YOLO"
+  ],
+  "languages": [
+    "Python",     "TypeScript",  "JavaScript", "C#",
+    "HTML5",      "CSS3"
+  ],
+  "frontend":  [
+    "React",      "Next.js",     "Angular",    "Vue.js",
+    "TailwindCSS","Bootstrap"
+  ],
+  "backend":   [
+    "Node.js",    "Express.js",  "FastAPI",    "Django",  "Flask"
+  ],
+  "databases": [
+    "MongoDB",    "PostgreSQL",  "MySQL",      "Redis",   "Firebase"
+  ],
+  "cloud_devops": [
+    "AWS",        "Microsoft Azure", "Docker",
+    "GitHub Actions",  "Git"
+  ],
+  "tools":     [
+    "Figma",      "VS Code",     "Notion",     "Postman",  "Trello"
+  ]
+}
+// ─────────────────────────────────────────────────────────────────
+```
 
 <div align="center">
 
-**`◈ ── AI & MACHINE LEARNING ── ◈`**
-
-![Gemini AI](https://img.shields.io/badge/Gemini_AI-0e0a21?style=for-the-badge&logo=google&logoColor=a78bfa&labelColor=150f32)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-0e0a21?style=for-the-badge&logo=tensorflow&logoColor=a78bfa&labelColor=150f32)
-![PyTorch](https://img.shields.io/badge/PyTorch-0e0a21?style=for-the-badge&logo=pytorch&logoColor=a78bfa&labelColor=150f32)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-0e0a21?style=for-the-badge&logo=scikit-learn&logoColor=a78bfa&labelColor=150f32)
-![OpenCV](https://img.shields.io/badge/OpenCV-0e0a21?style=for-the-badge&logo=opencv&logoColor=a78bfa&labelColor=150f32)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-0e0a21?style=for-the-badge&logo=huggingface&logoColor=a78bfa&labelColor=150f32)
-![LangChain](https://img.shields.io/badge/LangChain-0e0a21?style=for-the-badge&logoColor=a78bfa&labelColor=150f32)
+<!-- AI ROW -->
+**`// AI & ML`** &nbsp;
+![Gemini](https://img.shields.io/badge/Gemini_AI-1e1e1e?style=flat-square&logo=google&logoColor=9d85e8)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-1e1e1e?style=flat-square&logo=tensorflow&logoColor=ce9178)
+![PyTorch](https://img.shields.io/badge/PyTorch-1e1e1e?style=flat-square&logo=pytorch&logoColor=f44747)
+![Scikit](https://img.shields.io/badge/Scikit--Learn-1e1e1e?style=flat-square&logo=scikit-learn&logoColor=dcdcaa)
+![OpenCV](https://img.shields.io/badge/OpenCV-1e1e1e?style=flat-square&logo=opencv&logoColor=4ec9b0)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-1e1e1e?style=flat-square&logo=huggingface&logoColor=dcdcaa)
+![LangChain](https://img.shields.io/badge/LangChain-1e1e1e?style=flat-square&logoColor=9d85e8)
 
 </div>
 
@@ -91,72 +135,72 @@
 <tr>
 <td valign="top" width="33%">
 
-**`◈ LANGUAGES`**
+**`// languages`**
 
-![Python](https://img.shields.io/badge/Python-0e0a21?style=flat-square&logo=python&logoColor=c8b8ff)
-![TypeScript](https://img.shields.io/badge/TypeScript-0e0a21?style=flat-square&logo=typescript&logoColor=c8b8ff)
-![JavaScript](https://img.shields.io/badge/JavaScript-0e0a21?style=flat-square&logo=javascript&logoColor=c8b8ff)
-![C#](https://img.shields.io/badge/C%23-0e0a21?style=flat-square&logo=c-sharp&logoColor=c8b8ff)
-![HTML5](https://img.shields.io/badge/HTML5-0e0a21?style=flat-square&logo=html5&logoColor=c8b8ff)
-![CSS3](https://img.shields.io/badge/CSS3-0e0a21?style=flat-square&logo=css3&logoColor=c8b8ff)
-
-</td>
-<td valign="top" width="33%">
-
-**`◈ FRONTEND`**
-
-![React](https://img.shields.io/badge/React-0e0a21?style=flat-square&logo=react&logoColor=c8b8ff)
-![Next.js](https://img.shields.io/badge/Next.js-0e0a21?style=flat-square&logo=next.js&logoColor=c8b8ff)
-![Angular](https://img.shields.io/badge/Angular-0e0a21?style=flat-square&logo=angular&logoColor=c8b8ff)
-![Vue.js](https://img.shields.io/badge/Vue-0e0a21?style=flat-square&logo=vue.js&logoColor=c8b8ff)
-![Tailwind](https://img.shields.io/badge/Tailwind-0e0a21?style=flat-square&logo=tailwind-css&logoColor=c8b8ff)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-0e0a21?style=flat-square&logo=bootstrap&logoColor=c8b8ff)
+![Python](https://img.shields.io/badge/Python-1e1e1e?style=flat-square&logo=python&logoColor=4ec9b0)
+![TypeScript](https://img.shields.io/badge/TypeScript-1e1e1e?style=flat-square&logo=typescript&logoColor=569cd6)
+![JavaScript](https://img.shields.io/badge/JavaScript-1e1e1e?style=flat-square&logo=javascript&logoColor=dcdcaa)
+![C#](https://img.shields.io/badge/C%23-1e1e1e?style=flat-square&logo=c-sharp&logoColor=9d85e8)
+![HTML5](https://img.shields.io/badge/HTML5-1e1e1e?style=flat-square&logo=html5&logoColor=ce9178)
+![CSS3](https://img.shields.io/badge/CSS3-1e1e1e?style=flat-square&logo=css3&logoColor=569cd6)
 
 </td>
 <td valign="top" width="33%">
 
-**`◈ BACKEND`**
+**`// frontend`**
 
-![Node.js](https://img.shields.io/badge/Node.js-0e0a21?style=flat-square&logo=node.js&logoColor=c8b8ff)
-![Express](https://img.shields.io/badge/Express-0e0a21?style=flat-square&logo=express&logoColor=c8b8ff)
-![FastAPI](https://img.shields.io/badge/FastAPI-0e0a21?style=flat-square&logo=fastapi&logoColor=c8b8ff)
-![Django](https://img.shields.io/badge/Django-0e0a21?style=flat-square&logo=django&logoColor=c8b8ff)
-![Flask](https://img.shields.io/badge/Flask-0e0a21?style=flat-square&logo=flask&logoColor=c8b8ff)
+![React](https://img.shields.io/badge/React-1e1e1e?style=flat-square&logo=react&logoColor=4ec9b0)
+![Next.js](https://img.shields.io/badge/Next.js-1e1e1e?style=flat-square&logo=next.js&logoColor=d4d4d4)
+![Angular](https://img.shields.io/badge/Angular-1e1e1e?style=flat-square&logo=angular&logoColor=f44747)
+![Vue](https://img.shields.io/badge/Vue.js-1e1e1e?style=flat-square&logo=vue.js&logoColor=6a9955)
+![Tailwind](https://img.shields.io/badge/Tailwind-1e1e1e?style=flat-square&logo=tailwind-css&logoColor=4ec9b0)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-1e1e1e?style=flat-square&logo=bootstrap&logoColor=9d85e8)
+
+</td>
+<td valign="top" width="33%">
+
+**`// backend`**
+
+![Node.js](https://img.shields.io/badge/Node.js-1e1e1e?style=flat-square&logo=node.js&logoColor=6a9955)
+![Express](https://img.shields.io/badge/Express-1e1e1e?style=flat-square&logo=express&logoColor=d4d4d4)
+![FastAPI](https://img.shields.io/badge/FastAPI-1e1e1e?style=flat-square&logo=fastapi&logoColor=4ec9b0)
+![Django](https://img.shields.io/badge/Django-1e1e1e?style=flat-square&logo=django&logoColor=6a9955)
+![Flask](https://img.shields.io/badge/Flask-1e1e1e?style=flat-square&logo=flask&logoColor=d4d4d4)
 
 </td>
 </tr>
 <tr>
 <td valign="top" width="33%">
 
-**`◈ DATABASES`**
+**`// databases`**
 
-![MongoDB](https://img.shields.io/badge/MongoDB-0e0a21?style=flat-square&logo=mongodb&logoColor=c8b8ff)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0e0a21?style=flat-square&logo=postgresql&logoColor=c8b8ff)
-![MySQL](https://img.shields.io/badge/MySQL-0e0a21?style=flat-square&logo=mysql&logoColor=c8b8ff)
-![Redis](https://img.shields.io/badge/Redis-0e0a21?style=flat-square&logo=redis&logoColor=c8b8ff)
-![Firebase](https://img.shields.io/badge/Firebase-0e0a21?style=flat-square&logo=firebase&logoColor=c8b8ff)
-
-</td>
-<td valign="top" width="33%">
-
-**`◈ CLOUD & DEVOPS`**
-
-![AWS](https://img.shields.io/badge/AWS-0e0a21?style=flat-square&logo=amazon-aws&logoColor=c8b8ff)
-![Azure](https://img.shields.io/badge/Azure-0e0a21?style=flat-square&logo=microsoft-azure&logoColor=c8b8ff)
-![Docker](https://img.shields.io/badge/Docker-0e0a21?style=flat-square&logo=docker&logoColor=c8b8ff)
-![GH Actions](https://img.shields.io/badge/GH_Actions-0e0a21?style=flat-square&logo=github-actions&logoColor=c8b8ff)
-![Git](https://img.shields.io/badge/Git-0e0a21?style=flat-square&logo=git&logoColor=c8b8ff)
+![MongoDB](https://img.shields.io/badge/MongoDB-1e1e1e?style=flat-square&logo=mongodb&logoColor=6a9955)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1e1e1e?style=flat-square&logo=postgresql&logoColor=569cd6)
+![MySQL](https://img.shields.io/badge/MySQL-1e1e1e?style=flat-square&logo=mysql&logoColor=4ec9b0)
+![Redis](https://img.shields.io/badge/Redis-1e1e1e?style=flat-square&logo=redis&logoColor=f44747)
+![Firebase](https://img.shields.io/badge/Firebase-1e1e1e?style=flat-square&logo=firebase&logoColor=dcdcaa)
 
 </td>
 <td valign="top" width="33%">
 
-**`◈ DESIGN & TOOLS`**
+**`// cloud_devops`**
 
-![Figma](https://img.shields.io/badge/Figma-0e0a21?style=flat-square&logo=figma&logoColor=c8b8ff)
-![VS Code](https://img.shields.io/badge/VS_Code-0e0a21?style=flat-square&logo=visual-studio-code&logoColor=c8b8ff)
-![Notion](https://img.shields.io/badge/Notion-0e0a21?style=flat-square&logo=notion&logoColor=c8b8ff)
-![Postman](https://img.shields.io/badge/Postman-0e0a21?style=flat-square&logo=postman&logoColor=c8b8ff)
-![Trello](https://img.shields.io/badge/Trello-0e0a21?style=flat-square&logo=trello&logoColor=c8b8ff)
+![AWS](https://img.shields.io/badge/AWS-1e1e1e?style=flat-square&logo=amazon-aws&logoColor=ce9178)
+![Azure](https://img.shields.io/badge/Azure-1e1e1e?style=flat-square&logo=microsoft-azure&logoColor=569cd6)
+![Docker](https://img.shields.io/badge/Docker-1e1e1e?style=flat-square&logo=docker&logoColor=4ec9b0)
+![GH Actions](https://img.shields.io/badge/GH_Actions-1e1e1e?style=flat-square&logo=github-actions&logoColor=9d85e8)
+![Git](https://img.shields.io/badge/Git-1e1e1e?style=flat-square&logo=git&logoColor=f44747)
+
+</td>
+<td valign="top" width="33%">
+
+**`// tools`**
+
+![Figma](https://img.shields.io/badge/Figma-1e1e1e?style=flat-square&logo=figma&logoColor=ce9178)
+![VSCode](https://img.shields.io/badge/VS_Code-1e1e1e?style=flat-square&logo=visual-studio-code&logoColor=569cd6)
+![Notion](https://img.shields.io/badge/Notion-1e1e1e?style=flat-square&logo=notion&logoColor=d4d4d4)
+![Postman](https://img.shields.io/badge/Postman-1e1e1e?style=flat-square&logo=postman&logoColor=ce9178)
+![Trello](https://img.shields.io/badge/Trello-1e1e1e?style=flat-square&logo=trello&logoColor=569cd6)
 
 </td>
 </tr>
@@ -164,136 +208,175 @@
 
 ---
 
-## ✦ &nbsp; Featured Projects
+## 🚀 &nbsp; projects/featured/
+
+```python
+# ─────────────────────────────────────────────────────────────────
+#  📄  projects/featured/__init__.py
+# ─────────────────────────────────────────────────────────────────
+
+projects = [
+    { "name": "Gluco Guide",            "type": "AI Health"      },
+    { "name": "OmniAI Toolkit",         "type": "AI Productivity"},
+    { "name": "Medical Chatbot",        "type": "NLP / AI"       },
+    { "name": "PDF Translator",         "type": "NLP / Voice"    },
+    { "name": "StoryForge",             "type": "Generative AI"  },
+    { "name": "Graph Generator AI",     "type": "AI / Math"      },
+]
+# ─────────────────────────────────────────────────────────────────
+```
 
 <div align="center">
-
 <table>
 <tr>
-<td width="50%" valign="top" align="center">
+<td width="50%" valign="top">
 
-```
-╔══════════════════════════════════════╗
-║  🩺  GLUCO GUIDE                     ║
-╠══════════════════════════════════════╣
-║  AI diabetes management assistant   ║
-║  Personalized diet plans            ║
-║  Real-time health insights          ║
-╠══════════════════════════════════════╣
-║  Gemini AI · Python · Flask · ML    ║
-╚══════════════════════════════════════╝
-```
-[![View](https://img.shields.io/badge/◈_VIEW_PROJECT-0e0a21?style=for-the-badge&logo=github&logoColor=c8b8ff&labelColor=150f32)](https://github.com/Ahsaniss)
+```py
+# 🩺 gluco_guide.py
 
-</td>
-<td width="50%" valign="top" align="center">
+"""
+AI diabetes management assistant.
+Personalized diet plans & real-time
+health insights powered by Gemini AI.
+"""
 
+stack = [
+  "Gemini AI", "Python",
+  "Flask",     "ML"
+]
+status = "✔ DEPLOYED"
 ```
-╔══════════════════════════════════════╗
-║  🤖  OMNI AI TOOLKIT                 ║
-╠══════════════════════════════════════╣
-║  Multi-functional AI suite          ║
-║  Workflow automation engine         ║
-║  Cross-platform productivity        ║
-╠══════════════════════════════════════╣
-║  Python · TensorFlow · React · API  ║
-╚══════════════════════════════════════╝
-```
-[![View](https://img.shields.io/badge/◈_VIEW_PROJECT-0e0a21?style=for-the-badge&logo=github&logoColor=c8b8ff&labelColor=150f32)](https://github.com/Ahsaniss)
+[![View](https://img.shields.io/badge/▶_RUN_PROJECT-252526?style=for-the-badge&logo=github&logoColor=dcdcaa&labelColor=1e1e1e)](https://github.com/Ahsaniss)
 
 </td>
-</tr>
-<tr>
-<td width="50%" valign="top" align="center">
+<td width="50%" valign="top">
 
-```
-╔══════════════════════════════════════╗
-║  💊  MEDICAL CHATBOT                 ║
-╠══════════════════════════════════════╣
-║  Intelligent symptom checker        ║
-║  AI food recommendation system      ║
-║  NLP-powered conversations          ║
-╠══════════════════════════════════════╣
-║  Gemini AI · NLP · FastAPI          ║
-╚══════════════════════════════════════╝
-```
-[![View](https://img.shields.io/badge/◈_VIEW_PROJECT-0e0a21?style=for-the-badge&logo=github&logoColor=c8b8ff&labelColor=150f32)](https://github.com/Ahsaniss)
+```py
+# 🤖 omni_ai_toolkit.py
 
-</td>
-<td width="50%" valign="top" align="center">
+"""
+Multi-functional AI productivity suite.
+Workflow automation engine with
+cross-platform support.
+"""
 
+stack = [
+  "Python", "TensorFlow",
+  "React",  "REST API"
+]
+status = "✔ DEPLOYED"
 ```
-╔══════════════════════════════════════╗
-║  📄  PDF TRANSLATOR & SUMMARIZER     ║
-╠══════════════════════════════════════╣
-║  Multilingual PDF processing        ║
-║  Voice I/O capabilities             ║
-║  Smart AI summarization             ║
-╠══════════════════════════════════════╣
-║  Python · PyPDF2 · Speech API       ║
-╚══════════════════════════════════════╝
-```
-[![View](https://img.shields.io/badge/◈_VIEW_PROJECT-0e0a21?style=for-the-badge&logo=github&logoColor=c8b8ff&labelColor=150f32)](https://github.com/Ahsaniss)
+[![View](https://img.shields.io/badge/▶_RUN_PROJECT-252526?style=for-the-badge&logo=github&logoColor=dcdcaa&labelColor=1e1e1e)](https://github.com/Ahsaniss)
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top" align="center">
+<td width="50%" valign="top">
 
+```py
+# 💊 medical_chatbot.py
+
+"""
+Intelligent symptom checker &
+AI food recommendation system.
+NLP-powered conversations.
+"""
+
+stack = [
+  "Gemini AI", "NLP",
+  "FastAPI"
+]
+status = "✔ DEPLOYED"
 ```
-╔══════════════════════════════════════╗
-║  🎮  STORYFORGE                      ║
-╠══════════════════════════════════════╣
-║  AI Game Design Doc generator       ║
-║  Concept to GDD in seconds          ║
-║  Story & world-building AI          ║
-╠══════════════════════════════════════╣
-║  GPT · Python · MongoDB             ║
-╚══════════════════════════════════════╝
-```
-[![View](https://img.shields.io/badge/◈_VIEW_PROJECT-0e0a21?style=for-the-badge&logo=github&logoColor=c8b8ff&labelColor=150f32)](https://github.com/Ahsaniss)
+[![View](https://img.shields.io/badge/▶_RUN_PROJECT-252526?style=for-the-badge&logo=github&logoColor=dcdcaa&labelColor=1e1e1e)](https://github.com/Ahsaniss)
 
 </td>
-<td width="50%" valign="top" align="center">
+<td width="50%" valign="top">
 
+```py
+# 📄 pdf_translator.py
+
+"""
+Multilingual PDF processing with
+voice I/O capabilities.
+Smart AI summarization engine.
+"""
+
+stack = [
+  "Python",  "PyPDF2",
+  "Speech Recognition"
+]
+status = "✔ DEPLOYED"
 ```
-╔══════════════════════════════════════╗
-║  📊  GRAPH GENERATOR AI              ║
-╠══════════════════════════════════════╣
-║  Natural language → math graphs     ║
-║  Zero code required                 ║
-║  Visual math engine                 ║
-╠══════════════════════════════════════╣
-║  Matplotlib · NumPy · NLP           ║
-╚══════════════════════════════════════╝
+[![View](https://img.shields.io/badge/▶_RUN_PROJECT-252526?style=for-the-badge&logo=github&logoColor=dcdcaa&labelColor=1e1e1e)](https://github.com/Ahsaniss)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+```py
+# 🎮 story_forge.py
+
+"""
+AI Game Design Doc generator.
+From concept to full GDD
+in seconds. World-building AI.
+"""
+
+stack = [
+  "GPT", "Python",
+  "MongoDB"
+]
+status = "✔ DEPLOYED"
 ```
-[![View](https://img.shields.io/badge/◈_VIEW_PROJECT-0e0a21?style=for-the-badge&logo=github&logoColor=c8b8ff&labelColor=150f32)](https://github.com/Ahsaniss)
+[![View](https://img.shields.io/badge/▶_RUN_PROJECT-252526?style=for-the-badge&logo=github&logoColor=dcdcaa&labelColor=1e1e1e)](https://github.com/Ahsaniss)
+
+</td>
+<td width="50%" valign="top">
+
+```py
+# 📊 graph_generator_ai.py
+
+"""
+Natural language → math graphs.
+Zero code required.
+Visual math engine powered by NLP.
+"""
+
+stack = [
+  "Matplotlib", "NumPy",
+  "NLP"
+]
+status = "✔ DEPLOYED"
+```
+[![View](https://img.shields.io/badge/▶_RUN_PROJECT-252526?style=for-the-badge&logo=github&logoColor=dcdcaa&labelColor=1e1e1e)](https://github.com/Ahsaniss)
 
 </td>
 </tr>
 </table>
 
-[![All Projects](https://img.shields.io/badge/✦_EXPLORE_ALL_PROJECTS_✦-4632a8?style=for-the-badge&logo=github&logoColor=white&labelColor=231954)](https://github.com/Ahsaniss?tab=repositories)
+[![All](https://img.shields.io/badge/▶_EXPLORE_ALL_PROJECTS-3832a8?style=for-the-badge&logo=github&logoColor=white&labelColor=252526)](https://github.com/Ahsaniss?tab=repositories)
 
 </div>
 
 ---
 
-## ✦ &nbsp; GitHub Analytics
+## 📊 &nbsp; git log --stat
 
 <div align="center">
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=Ahsaniss&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0e0a21&title_color=a78bfa&icon_color=7c3aed&text_color=c8b8ff&ring_color=4632a8"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=Ahsaniss&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=1e1e1e&title_color=9d85e8&icon_color=3832a8&text_color=d4d4d4&border_color=3832a8"/>
 &nbsp;
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahsaniss&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0e0a21&title_color=a78bfa&text_color=c8b8ff"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahsaniss&layout=compact&langs_count=8&hide_border=true&bg_color=1e1e1e&title_color=9d85e8&text_color=d4d4d4"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=Ahsaniss&theme=tokyonight&hide_border=true&background=0e0a21&stroke=4632a8&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=9d85e8&dates=7c5cbf&currStreakNum=c8b8ff&sideNums=c8b8ff"/>
+<img src="https://streak-stats.demolab.com/?user=Ahsaniss&hide_border=true&background=1e1e1e&stroke=3832a8&ring=3832a8&fire=ce9178&currStreakLabel=9d85e8&sideLabels=9d85e8&dates=6a9955&currStreakNum=d4d4d4&sideNums=d4d4d4"/>
 
 <br/>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ahsaniss&theme=tokyo-night&hide_border=true&bg_color=0e0a21&color=a78bfa&line=4632a8&point=c8b8ff&area=true&area_color=4632a833"/>
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ahsaniss&theme=tokyo-night&hide_border=true&bg_color=1e1e1e&color=9d85e8&line=3832a8&point=ce9178&area=true&area_color=3832a844"/>
 
 <br/>
 
@@ -303,72 +386,108 @@
 
 ---
 
-## ✦ &nbsp; Certifications
+## 🏅 &nbsp; certifications.json
 
-```
-◈ ══════════════════════════════════════════════════════════════════════ ◈
-
-  ┌──────────────────────────────────┬─────────────────────────────────────┐
-  │   ☁️  CLOUD & AI                 │   📊  MANAGEMENT & ENGINEERING      │
-  ├──────────────────────────────────┼─────────────────────────────────────┤
-  │  ✦ AWS Generative AI             │  ✦ Google Project Management        │
-  │  ✦ ML Foundations — AWS          │  ✦ IoT for Everyone — HEC PK        │
-  │  ✦ AI on Microsoft Azure         │  ✦ Algorithm Design — HEC PK        │
-  │  ✦ Computer Vision — Azure       │  ✦ Agile & Scrum Methodologies      │
-  │  ✦ Azure AI Fundamentals (AI900) │                                     │
-  │  ✦ Azure Machine Learning        │                                     │
-  └──────────────────────────────────┴─────────────────────────────────────┘
-
-◈ ══════════════════════════════════════════════════════════════════════ ◈
-```
-
----
-
-## ✦ &nbsp; 2025 Roadmap
-
-```
-◈ ══════════════════════════════════════════════════════════════════════ ◈
-
-    ✦  2025  GOALS  ✦
-
-    [ ▓▓▓▓▓▓▓░░░ ]  Contribute to major open-source AI/ML projects
-    [ ▓▓▓▓▓▓▓▓░░ ]  Master advanced system design & microservices
-    [ ▓▓▓▓▓▓░░░░ ]  Ship production-grade AI applications
-    [ ▓▓▓▓▓▓▓▓▓░ ]  Expand cloud expertise: AWS · Azure · GCP
-    [ ▓▓▓▓░░░░░░ ]  Write technical blogs & tutorials
-    [ ▓▓▓▓▓░░░░░ ]  Mentor devs & grow the tech community
-
-    STATUS  ──────────────────────────────────  IN PROGRESS ✦
-
-◈ ══════════════════════════════════════════════════════════════════════ ◈
+```json
+// ─────────────────────────────────────────────────────────────────
+//  📄  docs/certifications.json
+// ─────────────────────────────────────────────────────────────────
+{
+  "cloud_and_ai": [
+    "✔  AWS Educate: Introduction to Generative AI",
+    "✔  Machine Learning Foundations — AWS",
+    "✔  AI on Microsoft Azure — Microsoft",
+    "✔  Computer Vision in Azure — Microsoft",
+    "✔  Azure AI Fundamentals (AI-900)",
+    "✔  Azure Machine Learning"
+  ],
+  "management_and_engineering": [
+    "✔  Google Project Management Specialization",
+    "✔  IoT for Everyone — HEC Pakistan",
+    "✔  Algorithm Design to Prototype — HEC Pakistan",
+    "✔  Agile & Scrum Methodologies"
+  ]
+}
+// ─────────────────────────────────────────────────────────────────
 ```
 
 ---
 
-## ✦ &nbsp; Let's Connect
+## 🎯 &nbsp; goals_2025.ts
+
+```typescript
+// ─────────────────────────────────────────────────────────────────
+//  📄  roadmap/goals_2025.ts
+// ─────────────────────────────────────────────────────────────────
+
+interface  Goal  {
+    task    :  string;
+    status  :  "done" | "in-progress" | "planned";
+    pct     :  number;
+}
+
+const  goals2025: Goal[]  =  [
+  { task: "Contribute to open-source AI/ML projects",        status: "in-progress",  pct: 65 },
+  { task: "Master system design & microservices",            status: "in-progress",  pct: 70 },
+  { task: "Ship production-grade AI applications",           status: "in-progress",  pct: 55 },
+  { task: "Expand cloud expertise: AWS · Azure · GCP",       status: "in-progress",  pct: 80 },
+  { task: "Write technical blogs & share knowledge",         status: "planned",      pct: 30 },
+  { task: "Mentor devs & grow the tech community",           status: "in-progress",  pct: 50 },
+];
+
+export  default  goals2025;
+// ─────────────────────────────────────────────────────────────────
+```
+
+---
+
+## 🤝 &nbsp; contact.ts
+
+```typescript
+// ─────────────────────────────────────────────────────────────────
+//  📄  src/contact.ts
+// ─────────────────────────────────────────────────────────────────
+
+const  contact  =  {
+    email       :  "ahsanraza858585@gmail.com",
+    linkedin    :  "linkedin.com/in/muhammad-ahsan-raza",
+    portfolio   :  "ahsani-raza.vercel.app",
+    github      :  "github.com/Ahsaniss",
+    responseTime:  "< 24 hours",
+    openTo      :  [
+                    "AI / ML Projects",
+                    "Full-Stack Applications",
+                    "Cloud Architecture",
+                    "Freelance & Full-Time"
+                   ],
+};
+
+// ── connect() ──────────────────────────────────────────────────
+export  const  connect  =  ()  =>  {
+    console.log( "Let's build something remarkable together 🚀" );
+};
+// ─────────────────────────────────────────────────────────────────
+```
 
 <div align="center">
 
 <br/>
 
-> ✦ *Open to AI/ML projects · Full-Stack Applications · Cloud Architecture* ✦
->
-> ✦ *Response time: under 24 hours — let's build something remarkable together* ✦
-
-<br/>
-
-[![Email](https://img.shields.io/badge/✦_EMAIL_ME-0e0a21?style=for-the-badge&logo=gmail&logoColor=c8b8ff&labelColor=231954)](mailto:ahsanraza858585@gmail.com)
+[![Email](https://img.shields.io/badge/▶_EMAIL_ME-252526?style=for-the-badge&logo=gmail&logoColor=ce9178&labelColor=1e1e1e)](mailto:ahsanraza858585@gmail.com)
 &nbsp;&nbsp;
-[![LinkedIn](https://img.shields.io/badge/✦_LINKEDIN-0e0a21?style=for-the-badge&logo=linkedin&logoColor=c8b8ff&labelColor=231954)](https://linkedin.com/in/muhammad-ahsan-raza)
+[![LinkedIn](https://img.shields.io/badge/▶_LINKEDIN-252526?style=for-the-badge&logo=linkedin&logoColor=4ec9b0&labelColor=1e1e1e)](https://linkedin.com/in/muhammad-ahsan-raza)
 &nbsp;&nbsp;
-[![Portfolio](https://img.shields.io/badge/✦_PORTFOLIO-0e0a21?style=for-the-badge&logo=vercel&logoColor=c8b8ff&labelColor=231954)](https://ahsani-raza.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/▶_PORTFOLIO-252526?style=for-the-badge&logo=vercel&logoColor=dcdcaa&labelColor=1e1e1e)](https://ahsani-raza.vercel.app/)
 
 <br/><br/>
 
-### ✦ Found something useful? Drop a ⭐ — it means the world! ✦
+```
+// If you find my work useful — drop a ⭐ on a repo. It means a lot!
+// process.exit(0) — see you on the other side 👾
+```
 
 <br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4632a8,40:231954,70:150f32,100:070510&height=130&section=footer&text=✦+Made+with+%E2%9D%A4%EF%B8%8F+by+Muhammad+Ahsan+Raza+✦&fontSize=16&fontColor=c8b8ff&fontAlignY=65&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:3832a8,50:252526,100:1e1e1e&height=130&section=footer&text=//+Made+with+%E2%9D%A4%EF%B8%8F+by+Muhammad+Ahsan+Raza&fontSize=15&fontColor=9d85e8&fontAlignY=65&animation=fadeIn"/>
 
 </div>
