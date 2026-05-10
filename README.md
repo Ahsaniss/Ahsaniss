@@ -1,20 +1,50 @@
 <style>
-  body {
-    background: linear-gradient(135deg, #0f0c29 0%, #302b63 50%, #24243e 100%) !important;
+  :root {
+    --bg-dark: #0a0e27;
+    --glass-bg: rgba(255, 255, 255, 0.08);
+    --glass-border: rgba(255, 255, 255, 0.15);
   }
+  
+  body {
+    background: #0a0e27 !important;
+    color: #e0e0e0;
+  }
+  
   .glass-section {
-    background: rgba(255, 255, 255, 0.05);
-    backdrop-filter: blur(10px);
-    border: 1px solid rgba(255, 255, 255, 0.1);
+    background: var(--glass-bg);
+    backdrop-filter: blur(12px) saturate(180%);
+    border: 1px solid var(--glass-border);
+    border-radius: 16px;
+    padding: 24px;
+    margin: 20px 0;
+    box-shadow: 
+      0 8px 32px rgba(31, 38, 135, 0.25),
+      inset 0 1px 1px rgba(255, 255, 255, 0.1);
+    transition: all 0.3s ease;
+  }
+  
+  .glass-section:hover {
+    background: rgba(255, 255, 255, 0.12);
+    box-shadow: 
+      0 12px 40px rgba(102, 126, 234, 0.35),
+      inset 0 1px 1px rgba(255, 255, 255, 0.15);
+  }
+  
+  img[alt="Profile views"],
+  img[alt="followers"],
+  img[alt="stars"],
+  img[alt="GitHub Streak"],
+  img[alt="Contribution Graph"],
+  img[alt="GitHub Trophies"],
+  img[alt="Random Dev Quote"],
+  img[src*="readme-typing"],
+  img[src*="capsule-render"] {
     border-radius: 12px;
-    padding: 20px;
-    margin: 15px 0;
-    box-shadow: 0 8px 32px rgba(31, 38, 135, 0.37);
   }
 </style>
 
 <!-- DARK BACKGROUND WRAPPER -->
-<div style="background: linear-gradient(135deg, #0f0c29 0%, #302b63 50%, #24243e 100%); padding: 20px; border-radius: 15px; margin: -20px;">
+<div style="background: #0a0e27; min-height: 100vh; padding: 20px;">
 
 <!-- ANIMATED HEADER -->
 <div align="center">
