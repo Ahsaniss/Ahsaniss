@@ -191,12 +191,12 @@ const ahsanRaza = {
 ## 📈 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ahsaniss&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0a0e27"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahsaniss&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0a0e27"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ahsaniss&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahsaniss&layout=compact&langs_count=8&theme=github_dark&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Ahsaniss&theme=tokyonight&hide_border=true&background=0a0e27&stroke=667eea&ring=764ba2&fire=ffeb3b&currStreakLabel=667eea" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Ahsaniss&theme=dark&hide_border=true&stroke=667eea&ring=764ba2&fire=ffeb3b&currStreakLabel=667eea" alt="GitHub Streak" />
 </p>
 
 <p align="center">
