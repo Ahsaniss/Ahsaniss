@@ -191,16 +191,17 @@ const ahsanRaza = {
 ## 📈 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ahsaniss&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahsaniss&layout=compact&langs_count=8&theme=github_dark&hide_border=true"/>
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ahsaniss&theme=github_dark"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Ahsaniss&theme=dark&hide_border=true&stroke=667eea&ring=764ba2&fire=ffeb3b&currStreakLabel=667eea" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ahsaniss&theme=github_dark" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ahsaniss&theme=github_dark" alt="Top Languages by Repo" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ahsaniss&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=667eea&line=764ba2&point=ffeb3b&area=true&area_color=667eea" alt="Contribution Graph" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ahsaniss&theme=github_dark" alt="Top Languages by Commit" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ahsaniss&theme=github_dark" alt="Productive Time" />
 </p>
 
 <!-- TROPHIES -->
