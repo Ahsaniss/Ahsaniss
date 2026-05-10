@@ -1,3 +1,21 @@
+<style>
+  body {
+    background: linear-gradient(135deg, #0f0c29 0%, #302b63 50%, #24243e 100%) !important;
+  }
+  .glass-section {
+    background: rgba(255, 255, 255, 0.05);
+    backdrop-filter: blur(10px);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+    border-radius: 12px;
+    padding: 20px;
+    margin: 15px 0;
+    box-shadow: 0 8px 32px rgba(31, 38, 135, 0.37);
+  }
+</style>
+
+<!-- DARK BACKGROUND WRAPPER -->
+<div style="background: linear-gradient(135deg, #0f0c29 0%, #302b63 50%, #24243e 100%); padding: 20px; border-radius: 15px; margin: -20px;">
+
 <!-- ANIMATED HEADER -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Muhammad%20Ahsan%20Raza&fontSize=50&fontAlignY=35&animation=fadeIn&fontColor=fff&desc=Software%20Engineer%20%7C%20AI%20Innovator%20%7C%20Full-Stack%20Developer&descAlignY=55&descSize=18" />
@@ -33,6 +51,8 @@
 
 ---
 
+<div class="glass-section">
+
 ## 🚀 About Me
 
 ```typescript
@@ -46,9 +66,13 @@ const ahsanRaza = {
 };
 ```
 
+</div>
+
 <details>
 <summary>📊 <b>More About My Journey</b></summary>
 <br>
+
+<div class="glass-section">
 
 - 🎯 **Mission:** Creating intelligent, scalable solutions that make a real-world impact
 - 🌱 **Currently Exploring:** Advanced ML algorithms, cloud-native architectures, and AI ethics
@@ -56,9 +80,13 @@ const ahsanRaza = {
 - 🎓 **Philosophy:** Continuous learning and adapting to emerging technologies
 - ⚡ **Motto:** "Code with purpose, innovate with passion"
 
+</div>
+
 </details>
 
 ---
+
+<div class="glass-section">
 
 ## 🛠️ Tech Arsenal
 
@@ -148,7 +176,11 @@ const ahsanRaza = {
 
 </details>
 
+</div>
+
 ---
+
+<div class="glass-section">
 
 ## 🌟 Featured Projects
 
@@ -162,6 +194,8 @@ const ahsanRaza = {
 | **[PDF Translator & Summarizer](https://github.com/Ahsaniss)** | Multilingual PDF processing with voice I/O capabilities | `Python` `PyPDF2` `Speech Recognition` |
 | **[StoryForge](https://github.com/Ahsaniss)** | AI-powered Game Design Document generator | `GPT` `Python` `MongoDB` |
 | **[Graph Generator AI](https://github.com/Ahsaniss)** | Mathematical graph creation from natural language | `Matplotlib` `NumPy` `NLP` |
+
+</div>
 
 </div>
 
@@ -195,6 +229,8 @@ const ahsanRaza = {
 
 ---
 
+<div class="glass-section">
+
 ## 🎓 Certifications & Achievements
 
 <table>
@@ -222,6 +258,8 @@ const ahsanRaza = {
 </tr>
 </table>
 
+</div>
+
 ---
 
 ## 📊 Coding Activity
@@ -248,6 +286,8 @@ const ahsanRaza = {
 
 ---
 
+<div class="glass-section">
+
 ## 🤝 Let's Collaborate
 
 <p align="center">
@@ -268,7 +308,11 @@ const ahsanRaza = {
   </a>
 </p>
 
+</div>
+
 ---
+
+<div class="glass-section">
 
 ## 🎯 2025 Goals
 
@@ -279,8 +323,13 @@ const ahsanRaza = {
 - 📝 Share knowledge through technical blog posts and tutorials
 - 🤝 Mentor aspiring developers and contribute to the tech community
 
+</div>
+
 ---
 
+</div>
+
+<!-- FOOTER -->
 <div align="center">
   
 ### 🌟 Show some ❤️ by starring some of my repositories!
