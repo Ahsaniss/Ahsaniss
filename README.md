@@ -1,50 +1,5 @@
-<style>
-  :root {
-    --bg-dark: #0a0e27;
-    --glass-bg: rgba(255, 255, 255, 0.08);
-    --glass-border: rgba(255, 255, 255, 0.15);
-  }
-  
-  body {
-    background: #0a0e27 !important;
-    color: #e0e0e0;
-  }
-  
-  .glass-section {
-    background: var(--glass-bg);
-    backdrop-filter: blur(12px) saturate(180%);
-    border: 1px solid var(--glass-border);
-    border-radius: 16px;
-    padding: 24px;
-    margin: 20px 0;
-    box-shadow: 
-      0 8px 32px rgba(31, 38, 135, 0.25),
-      inset 0 1px 1px rgba(255, 255, 255, 0.1);
-    transition: all 0.3s ease;
-  }
-  
-  .glass-section:hover {
-    background: rgba(255, 255, 255, 0.12);
-    box-shadow: 
-      0 12px 40px rgba(102, 126, 234, 0.35),
-      inset 0 1px 1px rgba(255, 255, 255, 0.15);
-  }
-  
-  img[alt="Profile views"],
-  img[alt="followers"],
-  img[alt="stars"],
-  img[alt="GitHub Streak"],
-  img[alt="Contribution Graph"],
-  img[alt="GitHub Trophies"],
-  img[alt="Random Dev Quote"],
-  img[src*="readme-typing"],
-  img[src*="capsule-render"] {
-    border-radius: 12px;
-  }
-</style>
-
 <!-- DARK BACKGROUND WRAPPER -->
-<div style="background: #0a0e27; min-height: 100vh; padding: 20px;">
+<div style="background: #0a0e27; color: #e0e0e0; padding: 20px; border-radius: 12px;">
 
 <!-- ANIMATED HEADER -->
 <div align="center">
@@ -81,7 +36,7 @@
 
 ---
 
-<div class="glass-section">
+<div style="background: rgba(255, 255, 255, 0.08); border: 1px solid rgba(255, 255, 255, 0.15); border-radius: 12px; padding: 20px; margin: 20px 0;">
 
 ## 🚀 About Me
 
@@ -102,21 +57,17 @@ const ahsanRaza = {
 <summary>📊 <b>More About My Journey</b></summary>
 <br>
 
-<div class="glass-section">
-
 - 🎯 **Mission:** Creating intelligent, scalable solutions that make a real-world impact
 - 🌱 **Currently Exploring:** Advanced ML algorithms, cloud-native architectures, and AI ethics
 - 💼 **Open to:** Exciting collaboration opportunities and innovative projects
 - 🎓 **Philosophy:** Continuous learning and adapting to emerging technologies
 - ⚡ **Motto:** "Code with purpose, innovate with passion"
 
-</div>
-
 </details>
 
 ---
 
-<div class="glass-section">
+<div style="background: rgba(255, 255, 255, 0.08); border: 1px solid rgba(255, 255, 255, 0.15); border-radius: 12px; padding: 20px; margin: 20px 0;">
 
 ## 🛠️ Tech Arsenal
 
@@ -210,7 +161,7 @@ const ahsanRaza = {
 
 ---
 
-<div class="glass-section">
+<div style="background: rgba(255, 255, 255, 0.08); border: 1px solid rgba(255, 255, 255, 0.15); border-radius: 12px; padding: 20px; margin: 20px 0;">
 
 ## 🌟 Featured Projects
 
@@ -259,7 +210,7 @@ const ahsanRaza = {
 
 ---
 
-<div class="glass-section">
+<div style="background: rgba(255, 255, 255, 0.08); border: 1px solid rgba(255, 255, 255, 0.15); border-radius: 12px; padding: 20px; margin: 20px 0;">
 
 ## 🎓 Certifications & Achievements
 
@@ -316,7 +267,7 @@ const ahsanRaza = {
 
 ---
 
-<div class="glass-section">
+<div style="background: rgba(255, 255, 255, 0.08); border: 1px solid rgba(255, 255, 255, 0.15); border-radius: 12px; padding: 20px; margin: 20px 0;">
 
 ## 🤝 Let's Collaborate
 
@@ -342,7 +293,7 @@ const ahsanRaza = {
 
 ---
 
-<div class="glass-section">
+<div style="background: rgba(255, 255, 255, 0.08); border: 1px solid rgba(255, 255, 255, 0.15); border-radius: 12px; padding: 20px; margin: 20px 0;">
 
 ## 🎯 2025 Goals
 
