@@ -1,222 +1,162 @@
-<!-- ANIMATED HEADER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=200&section=header&text=Muhammad%20Ahsan%20Raza&fontSize=50&fontAlignY=35&animation=fadeIn&fontColor=fff&desc=Software%20Engineer%20%7C%20AI%20Innovator%20%7C%20Full-Stack%20Developer&descAlignY=55&descSize=18" />
+
+<!-- ░░░░░░░░░░░░░░░░░░ HEADER ░░░░░░░░░░░░░░░░░░ -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:070510,60:150f32,100:4632a8&height=220&section=header&text=Muhammad%20Ahsan%20Raza&fontSize=50&fontColor=c8b8ff&fontAlignY=40&animation=fadeIn&desc=✦%20Software%20Engineer%20%20·%20%20AI%20Architect%20%20·%20%20Full-Stack%20Developer%20✦&descFontColor=9d85e8&descSize=16&descAlignY=62"/>
+
+<br/>
+
+<!-- TYPING -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cinzel&weight=700&size=21&duration=3000&pause=900&color=A78BFA&background=00000000&center=true&vCenter=true&width=780&lines=✦+Architecting+AI-Powered+Intelligent+Systems+✦;✦+Engineering+Scalable+Full-Stack+Solutions+✦;✦+Cloud-Native+%26+DevOps+Excellence+✦;✦+Turning+Vision+into+Intelligent+Reality+✦)](https://git.io/typing-svg)
+
+<br/>
+
+<!-- STAT BADGES — glassy purple tones -->
+![Views](https://komarev.com/ghpvc/?username=Ahsaniss&label=◈+PROFILE+VIEWS&color=4632a8&style=for-the-badge&labelColor=150f32)
+&nbsp;
+![Followers](https://img.shields.io/github/followers/Ahsaniss?label=◈+FOLLOWERS&style=for-the-badge&color=4632a8&labelColor=150f32)
+&nbsp;
+![Status](https://img.shields.io/badge/◈_STATUS-OPEN__TO__WORK-4632a8?style=for-the-badge&labelColor=150f32)
+
+<br/><br/>
+
+<!-- SOCIAL LINKS -->
+[![Gmail](https://img.shields.io/badge/◈_GMAIL-150f32?style=for-the-badge&logo=gmail&logoColor=c8b8ff&labelColor=0e0a21)](mailto:ahsanraza858585@gmail.com)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/◈_LINKEDIN-150f32?style=for-the-badge&logo=linkedin&logoColor=c8b8ff&labelColor=0e0a21)](https://linkedin.com/in/muhammad-ahsan-raza)
+&nbsp;
+[![Portfolio](https://img.shields.io/badge/◈_PORTFOLIO-150f32?style=for-the-badge&logo=vercel&logoColor=c8b8ff&labelColor=0e0a21)](https://ahsani-raza.vercel.app/)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/◈_GITHUB-150f32?style=for-the-badge&logo=github&logoColor=c8b8ff&labelColor=0e0a21)](https://github.com/Ahsaniss)
+
 </div>
 
-<!-- TYPING ANIMATION -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=667EEA&center=true&vCenter=true&random=false&width=800&lines=Building+AI-Powered+Solutions+%F0%9F%A4%96;Full-Stack+Development+Expert+%F0%9F%92%BB;Cloud+%26+DevOps+Enthusiast+%E2%98%81%EF%B8%8F;Turning+Ideas+into+Reality+%F0%9F%9A%80" alt="Typing SVG" />
-</p>
-
-<!-- ANIMATED BADGES -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ahsaniss&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/Ahsaniss?label=Followers&style=for-the-badge&color=blue" alt="followers" />
-  <img src="https://img.shields.io/github/stars/Ahsaniss?label=Stars&style=for-the-badge&color=yellow" alt="stars" />
-</p>
-
-<!-- CONNECT SECTION -->
-<p align="center">
-  <a href="mailto:ahsanraza858585@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/muhammad-ahsan-raza">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://ahsani-raza.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white" />
-  </a>
-  <a href="https://github.com/Ahsaniss">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+<br/>
 
 ---
 
-## 🚀 About Me
+## ✦ &nbsp; `whoami`
 
 ```typescript
-const ahsanRaza = {
-    location: "Faisalabad, Pakistan 🇵🇰",
-    role: "Software Engineer & AI Specialist",
-    focus: ["AI/ML Solutions", "Full-Stack Development", "Cloud Architecture"],
-    currentlyLearning: ["Advanced Deep Learning", "Microservices", "System Design"],
-    interests: ["Generative AI", "Computer Vision", "DevOps Automation"],
-    funFact: "I turn coffee into code ☕ and ideas into intelligent systems 🤖"
-};
+◈ ══════════════════════════════════════════════════════════════ ◈
+
+  const ahsanRaza = {
+    name         :  "Muhammad Ahsan Raza",
+    location     :  "🌍  Faisalabad, Pakistan 🇵🇰",
+    role         :  "Software Engineer & AI Specialist",
+    focus        :  [ "🧠 AI/ML Solutions", "🌐 Full-Stack Dev", "☁️ Cloud Arch" ],
+    learning     :  [ "Deep Learning", "Microservices", "System Design" ],
+    interests    :  [ "Generative AI", "Computer Vision", "DevOps" ],
+    superpower   :  "Turning ☕ coffee into code & 💡 ideas into intelligent systems",
+    available    :  true   // ← open for collaborations & opportunities
+  };
+
+◈ ══════════════════════════════════════════════════════════════ ◈
 ```
 
 <details>
-<summary>📊 <b>More About My Journey</b></summary>
+<summary><b>🔮 &nbsp; Expand — My Journey & Philosophy</b></summary>
 <br>
 
-- 🎯 **Mission:** Creating intelligent, scalable solutions that make a real-world impact
-- 🌱 **Currently Exploring:** Advanced ML algorithms, cloud-native architectures, and AI ethics
-- 💼 **Open to:** Exciting collaboration opportunities and innovative projects
-- 🎓 **Philosophy:** Continuous learning and adapting to emerging technologies
-- ⚡ **Motto:** "Code with purpose, innovate with passion"
+> *✦ "Code with purpose, innovate with passion." ✦*
+
+| Symbol | Area | Detail |
+|:---:|:---|:---|
+| 🎯 | **Mission** | Intelligent, scalable solutions that drive real-world impact |
+| 🌱 | **Exploring** | Advanced ML, cloud-native architectures & AI ethics |
+| 🤝 | **Open To** | Collaborations, freelance & full-time opportunities |
+| 📚 | **Philosophy** | Continuous learning and knowledge sharing |
+| ⚡ | **Fun Fact** | Built medical AI chatbots to game design generators |
 
 </details>
 
 ---
 
-## 🛠️ Tech Arsenal
-
-<details open>
-<summary><b>🤖 AI & Machine Learning</b></summary>
-<br>
-
-![Gemini AI](https://img.shields.io/badge/Gemini_AI-8E75B2?style=for-the-badge&logo=google&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-
-</details>
-
-<details open>
-<summary><b>💻 Programming Languages</b></summary>
-<br>
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-</details>
-
-<details open>
-<summary><b>🎨 Frontend Development</b></summary>
-<br>
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-</details>
-
-<details open>
-<summary><b>⚙️ Backend Development</b></summary>
-<br>
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
-</details>
-
-<details open>
-<summary><b>🗄️ Databases</b></summary>
-<br>
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-</details>
-
-<details open>
-<summary><b>☁️ Cloud & DevOps</b></summary>
-<br>
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-</details>
-
-<details open>
-<summary><b>🎯 Design & Tools</b></summary>
-<br>
-
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-</details>
-
----
-
-## 🌟 Featured Projects
+## ✦ &nbsp; Tech Arsenal
 
 <div align="center">
 
-| 🚀 Project | 📝 Description | 🛠️ Tech Stack |
-|-----------|---------------|---------------|
-| **[Gluco Guide](https://github.com/Ahsaniss)** | AI-powered diabetes assistant with personalized diet plans & health insights | `Gemini AI` `Python` `Flask` `ML` |
-| **[OmniAI Toolkit](https://github.com/Ahsaniss)** | Multi-functional AI productivity suite for automation | `Python` `TensorFlow` `React` `API` |
-| **[Medical Chatbot](https://github.com/Ahsaniss)** | Intelligent symptom checker & food recommendation system | `Gemini AI` `NLP` `FastAPI` |
-| **[PDF Translator & Summarizer](https://github.com/Ahsaniss)** | Multilingual PDF processing with voice I/O capabilities | `Python` `PyPDF2` `Speech Recognition` |
-| **[StoryForge](https://github.com/Ahsaniss)** | AI-powered Game Design Document generator | `GPT` `Python` `MongoDB` |
-| **[Graph Generator AI](https://github.com/Ahsaniss)** | Mathematical graph creation from natural language | `Matplotlib` `NumPy` `NLP` |
+**`◈ ── AI & MACHINE LEARNING ── ◈`**
+
+![Gemini AI](https://img.shields.io/badge/Gemini_AI-0e0a21?style=for-the-badge&logo=google&logoColor=a78bfa&labelColor=150f32)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0e0a21?style=for-the-badge&logo=tensorflow&logoColor=a78bfa&labelColor=150f32)
+![PyTorch](https://img.shields.io/badge/PyTorch-0e0a21?style=for-the-badge&logo=pytorch&logoColor=a78bfa&labelColor=150f32)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-0e0a21?style=for-the-badge&logo=scikit-learn&logoColor=a78bfa&labelColor=150f32)
+![OpenCV](https://img.shields.io/badge/OpenCV-0e0a21?style=for-the-badge&logo=opencv&logoColor=a78bfa&labelColor=150f32)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-0e0a21?style=for-the-badge&logo=huggingface&logoColor=a78bfa&labelColor=150f32)
+![LangChain](https://img.shields.io/badge/LangChain-0e0a21?style=for-the-badge&logoColor=a78bfa&labelColor=150f32)
 
 </div>
 
-<p align="center">
-  <a href="https://github.com/Ahsaniss?tab=repositories">
-    <img src="https://img.shields.io/badge/View_All_Projects-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
----
-
-## 📈 GitHub Analytics
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ahsaniss&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahsaniss&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Ahsaniss&theme=tokyonight&hide_border=true&background=0d1117&stroke=667eea&ring=764ba2&fire=ffeb3b&currStreakLabel=667eea" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ahsaniss&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=667eea&line=764ba2&point=ffeb3b&area=true&area_color=667eea" alt="Contribution Graph" />
-</p>
-
-<!-- TROPHIES -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ahsaniss&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4&margin-h=4&row=2&column=4" alt="GitHub Trophies" />
-</p>
-
----
-
-## 🎓 Certifications & Achievements
-
 <table>
 <tr>
-<td width="50%">
+<td valign="top" width="33%">
 
-### ☁️ **Cloud & AI**
-- ✅ AWS Educate: Introduction to Generative AI
-- ✅ Machine Learning Foundations – AWS
-- ✅ AI on Microsoft Azure – Microsoft
-- ✅ Computer Vision in Azure – Microsoft
-- ✅ Azure AI Fundamentals (AI-900)
-- ✅ Azure Machine Learning
+**`◈ LANGUAGES`**
+
+![Python](https://img.shields.io/badge/Python-0e0a21?style=flat-square&logo=python&logoColor=c8b8ff)
+![TypeScript](https://img.shields.io/badge/TypeScript-0e0a21?style=flat-square&logo=typescript&logoColor=c8b8ff)
+![JavaScript](https://img.shields.io/badge/JavaScript-0e0a21?style=flat-square&logo=javascript&logoColor=c8b8ff)
+![C#](https://img.shields.io/badge/C%23-0e0a21?style=flat-square&logo=c-sharp&logoColor=c8b8ff)
+![HTML5](https://img.shields.io/badge/HTML5-0e0a21?style=flat-square&logo=html5&logoColor=c8b8ff)
+![CSS3](https://img.shields.io/badge/CSS3-0e0a21?style=flat-square&logo=css3&logoColor=c8b8ff)
 
 </td>
-<td width="50%">
+<td valign="top" width="33%">
 
-### 📊 **Management & IoT**
-- ✅ Google Project Management Specialization
-- ✅ IoT for Everyone – HEC Pakistan
-- ✅ Algorithm Design to Prototype – HEC Pakistan
-- ✅ Agile & Scrum Methodologies
+**`◈ FRONTEND`**
+
+![React](https://img.shields.io/badge/React-0e0a21?style=flat-square&logo=react&logoColor=c8b8ff)
+![Next.js](https://img.shields.io/badge/Next.js-0e0a21?style=flat-square&logo=next.js&logoColor=c8b8ff)
+![Angular](https://img.shields.io/badge/Angular-0e0a21?style=flat-square&logo=angular&logoColor=c8b8ff)
+![Vue.js](https://img.shields.io/badge/Vue-0e0a21?style=flat-square&logo=vue.js&logoColor=c8b8ff)
+![Tailwind](https://img.shields.io/badge/Tailwind-0e0a21?style=flat-square&logo=tailwind-css&logoColor=c8b8ff)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-0e0a21?style=flat-square&logo=bootstrap&logoColor=c8b8ff)
+
+</td>
+<td valign="top" width="33%">
+
+**`◈ BACKEND`**
+
+![Node.js](https://img.shields.io/badge/Node.js-0e0a21?style=flat-square&logo=node.js&logoColor=c8b8ff)
+![Express](https://img.shields.io/badge/Express-0e0a21?style=flat-square&logo=express&logoColor=c8b8ff)
+![FastAPI](https://img.shields.io/badge/FastAPI-0e0a21?style=flat-square&logo=fastapi&logoColor=c8b8ff)
+![Django](https://img.shields.io/badge/Django-0e0a21?style=flat-square&logo=django&logoColor=c8b8ff)
+![Flask](https://img.shields.io/badge/Flask-0e0a21?style=flat-square&logo=flask&logoColor=c8b8ff)
+
+</td>
+</tr>
+<tr>
+<td valign="top" width="33%">
+
+**`◈ DATABASES`**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-0e0a21?style=flat-square&logo=mongodb&logoColor=c8b8ff)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0e0a21?style=flat-square&logo=postgresql&logoColor=c8b8ff)
+![MySQL](https://img.shields.io/badge/MySQL-0e0a21?style=flat-square&logo=mysql&logoColor=c8b8ff)
+![Redis](https://img.shields.io/badge/Redis-0e0a21?style=flat-square&logo=redis&logoColor=c8b8ff)
+![Firebase](https://img.shields.io/badge/Firebase-0e0a21?style=flat-square&logo=firebase&logoColor=c8b8ff)
+
+</td>
+<td valign="top" width="33%">
+
+**`◈ CLOUD & DEVOPS`**
+
+![AWS](https://img.shields.io/badge/AWS-0e0a21?style=flat-square&logo=amazon-aws&logoColor=c8b8ff)
+![Azure](https://img.shields.io/badge/Azure-0e0a21?style=flat-square&logo=microsoft-azure&logoColor=c8b8ff)
+![Docker](https://img.shields.io/badge/Docker-0e0a21?style=flat-square&logo=docker&logoColor=c8b8ff)
+![GH Actions](https://img.shields.io/badge/GH_Actions-0e0a21?style=flat-square&logo=github-actions&logoColor=c8b8ff)
+![Git](https://img.shields.io/badge/Git-0e0a21?style=flat-square&logo=git&logoColor=c8b8ff)
+
+</td>
+<td valign="top" width="33%">
+
+**`◈ DESIGN & TOOLS`**
+
+![Figma](https://img.shields.io/badge/Figma-0e0a21?style=flat-square&logo=figma&logoColor=c8b8ff)
+![VS Code](https://img.shields.io/badge/VS_Code-0e0a21?style=flat-square&logo=visual-studio-code&logoColor=c8b8ff)
+![Notion](https://img.shields.io/badge/Notion-0e0a21?style=flat-square&logo=notion&logoColor=c8b8ff)
+![Postman](https://img.shields.io/badge/Postman-0e0a21?style=flat-square&logo=postman&logoColor=c8b8ff)
+![Trello](https://img.shields.io/badge/Trello-0e0a21?style=flat-square&logo=trello&logoColor=c8b8ff)
 
 </td>
 </tr>
@@ -224,69 +164,211 @@ const ahsanRaza = {
 
 ---
 
-## 📊 Coding Activity
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-<details>
-<summary><b>⚡ Recent GitHub Activity</b></summary>
-<br>
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-</details>
-
----
-
-## 💡 Quote of the Day
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
-</p>
-
----
-
-## 🤝 Let's Collaborate
-
-<p align="center">
-  <b>I'm always excited to collaborate on innovative projects!</b><br>
-  Whether it's AI/ML solutions, full-stack applications, or cloud architecture,<br>
-  let's build something amazing together! 🚀
-</p>
-
-<p align="center">
-  <a href="mailto:ahsanraza858585@gmail.com">
-    <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/muhammad-ahsan-raza">
-    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://ahsani-raza.vercel.app/">
-    <img src="https://img.shields.io/badge/Visit_Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white" />
-  </a>
-</p>
-
----
-
-## 🎯 2025 Goals
-
-- 🚀 Contribute to major open-source AI/ML projects
-- 📚 Master advanced system design and microservices architecture
-- 🤖 Build and deploy production-grade AI applications
-- 🌐 Expand cloud expertise across multiple platforms
-- 📝 Share knowledge through technical blog posts and tutorials
-- 🤝 Mentor aspiring developers and contribute to the tech community
-
----
+## ✦ &nbsp; Featured Projects
 
 <div align="center">
-  
-### 🌟 Show some ❤️ by starring some of my repositories!
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer" />
+<table>
+<tr>
+<td width="50%" valign="top" align="center">
 
-**Made with ❤️ by Muhammad Ahsan Raza**
+```
+╔══════════════════════════════════════╗
+║  🩺  GLUCO GUIDE                     ║
+╠══════════════════════════════════════╣
+║  AI diabetes management assistant   ║
+║  Personalized diet plans            ║
+║  Real-time health insights          ║
+╠══════════════════════════════════════╣
+║  Gemini AI · Python · Flask · ML    ║
+╚══════════════════════════════════════╝
+```
+[![View](https://img.shields.io/badge/◈_VIEW_PROJECT-0e0a21?style=for-the-badge&logo=github&logoColor=c8b8ff&labelColor=150f32)](https://github.com/Ahsaniss)
+
+</td>
+<td width="50%" valign="top" align="center">
+
+```
+╔══════════════════════════════════════╗
+║  🤖  OMNI AI TOOLKIT                 ║
+╠══════════════════════════════════════╣
+║  Multi-functional AI suite          ║
+║  Workflow automation engine         ║
+║  Cross-platform productivity        ║
+╠══════════════════════════════════════╣
+║  Python · TensorFlow · React · API  ║
+╚══════════════════════════════════════╝
+```
+[![View](https://img.shields.io/badge/◈_VIEW_PROJECT-0e0a21?style=for-the-badge&logo=github&logoColor=c8b8ff&labelColor=150f32)](https://github.com/Ahsaniss)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top" align="center">
+
+```
+╔══════════════════════════════════════╗
+║  💊  MEDICAL CHATBOT                 ║
+╠══════════════════════════════════════╣
+║  Intelligent symptom checker        ║
+║  AI food recommendation system      ║
+║  NLP-powered conversations          ║
+╠══════════════════════════════════════╣
+║  Gemini AI · NLP · FastAPI          ║
+╚══════════════════════════════════════╝
+```
+[![View](https://img.shields.io/badge/◈_VIEW_PROJECT-0e0a21?style=for-the-badge&logo=github&logoColor=c8b8ff&labelColor=150f32)](https://github.com/Ahsaniss)
+
+</td>
+<td width="50%" valign="top" align="center">
+
+```
+╔══════════════════════════════════════╗
+║  📄  PDF TRANSLATOR & SUMMARIZER     ║
+╠══════════════════════════════════════╣
+║  Multilingual PDF processing        ║
+║  Voice I/O capabilities             ║
+║  Smart AI summarization             ║
+╠══════════════════════════════════════╣
+║  Python · PyPDF2 · Speech API       ║
+╚══════════════════════════════════════╝
+```
+[![View](https://img.shields.io/badge/◈_VIEW_PROJECT-0e0a21?style=for-the-badge&logo=github&logoColor=c8b8ff&labelColor=150f32)](https://github.com/Ahsaniss)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top" align="center">
+
+```
+╔══════════════════════════════════════╗
+║  🎮  STORYFORGE                      ║
+╠══════════════════════════════════════╣
+║  AI Game Design Doc generator       ║
+║  Concept to GDD in seconds          ║
+║  Story & world-building AI          ║
+╠══════════════════════════════════════╣
+║  GPT · Python · MongoDB             ║
+╚══════════════════════════════════════╝
+```
+[![View](https://img.shields.io/badge/◈_VIEW_PROJECT-0e0a21?style=for-the-badge&logo=github&logoColor=c8b8ff&labelColor=150f32)](https://github.com/Ahsaniss)
+
+</td>
+<td width="50%" valign="top" align="center">
+
+```
+╔══════════════════════════════════════╗
+║  📊  GRAPH GENERATOR AI              ║
+╠══════════════════════════════════════╣
+║  Natural language → math graphs     ║
+║  Zero code required                 ║
+║  Visual math engine                 ║
+╠══════════════════════════════════════╣
+║  Matplotlib · NumPy · NLP           ║
+╚══════════════════════════════════════╝
+```
+[![View](https://img.shields.io/badge/◈_VIEW_PROJECT-0e0a21?style=for-the-badge&logo=github&logoColor=c8b8ff&labelColor=150f32)](https://github.com/Ahsaniss)
+
+</td>
+</tr>
+</table>
+
+[![All Projects](https://img.shields.io/badge/✦_EXPLORE_ALL_PROJECTS_✦-4632a8?style=for-the-badge&logo=github&logoColor=white&labelColor=231954)](https://github.com/Ahsaniss?tab=repositories)
+
+</div>
+
+---
+
+## ✦ &nbsp; GitHub Analytics
+
+<div align="center">
+
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=Ahsaniss&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0e0a21&title_color=a78bfa&icon_color=7c3aed&text_color=c8b8ff&ring_color=4632a8"/>
+&nbsp;
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahsaniss&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0e0a21&title_color=a78bfa&text_color=c8b8ff"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=Ahsaniss&theme=tokyonight&hide_border=true&background=0e0a21&stroke=4632a8&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa&sideLabels=9d85e8&dates=7c5cbf&currStreakNum=c8b8ff&sideNums=c8b8ff"/>
+
+<br/>
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ahsaniss&theme=tokyo-night&hide_border=true&bg_color=0e0a21&color=a78bfa&line=4632a8&point=c8b8ff&area=true&area_color=4632a833"/>
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Ahsaniss&theme=tokyonight&no-frame=true&margin-w=8&row=1&column=6"/>
+
+</div>
+
+---
+
+## ✦ &nbsp; Certifications
+
+```
+◈ ══════════════════════════════════════════════════════════════════════ ◈
+
+  ┌──────────────────────────────────┬─────────────────────────────────────┐
+  │   ☁️  CLOUD & AI                 │   📊  MANAGEMENT & ENGINEERING      │
+  ├──────────────────────────────────┼─────────────────────────────────────┤
+  │  ✦ AWS Generative AI             │  ✦ Google Project Management        │
+  │  ✦ ML Foundations — AWS          │  ✦ IoT for Everyone — HEC PK        │
+  │  ✦ AI on Microsoft Azure         │  ✦ Algorithm Design — HEC PK        │
+  │  ✦ Computer Vision — Azure       │  ✦ Agile & Scrum Methodologies      │
+  │  ✦ Azure AI Fundamentals (AI900) │                                     │
+  │  ✦ Azure Machine Learning        │                                     │
+  └──────────────────────────────────┴─────────────────────────────────────┘
+
+◈ ══════════════════════════════════════════════════════════════════════ ◈
+```
+
+---
+
+## ✦ &nbsp; 2025 Roadmap
+
+```
+◈ ══════════════════════════════════════════════════════════════════════ ◈
+
+    ✦  2025  GOALS  ✦
+
+    [ ▓▓▓▓▓▓▓░░░ ]  Contribute to major open-source AI/ML projects
+    [ ▓▓▓▓▓▓▓▓░░ ]  Master advanced system design & microservices
+    [ ▓▓▓▓▓▓░░░░ ]  Ship production-grade AI applications
+    [ ▓▓▓▓▓▓▓▓▓░ ]  Expand cloud expertise: AWS · Azure · GCP
+    [ ▓▓▓▓░░░░░░ ]  Write technical blogs & tutorials
+    [ ▓▓▓▓▓░░░░░ ]  Mentor devs & grow the tech community
+
+    STATUS  ──────────────────────────────────  IN PROGRESS ✦
+
+◈ ══════════════════════════════════════════════════════════════════════ ◈
+```
+
+---
+
+## ✦ &nbsp; Let's Connect
+
+<div align="center">
+
+<br/>
+
+> ✦ *Open to AI/ML projects · Full-Stack Applications · Cloud Architecture* ✦
+>
+> ✦ *Response time: under 24 hours — let's build something remarkable together* ✦
+
+<br/>
+
+[![Email](https://img.shields.io/badge/✦_EMAIL_ME-0e0a21?style=for-the-badge&logo=gmail&logoColor=c8b8ff&labelColor=231954)](mailto:ahsanraza858585@gmail.com)
+&nbsp;&nbsp;
+[![LinkedIn](https://img.shields.io/badge/✦_LINKEDIN-0e0a21?style=for-the-badge&logo=linkedin&logoColor=c8b8ff&labelColor=231954)](https://linkedin.com/in/muhammad-ahsan-raza)
+&nbsp;&nbsp;
+[![Portfolio](https://img.shields.io/badge/✦_PORTFOLIO-0e0a21?style=for-the-badge&logo=vercel&logoColor=c8b8ff&labelColor=231954)](https://ahsani-raza.vercel.app/)
+
+<br/><br/>
+
+### ✦ Found something useful? Drop a ⭐ — it means the world! ✦
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:4632a8,40:231954,70:150f32,100:070510&height=130&section=footer&text=✦+Made+with+%E2%9D%A4%EF%B8%8F+by+Muhammad+Ahsan+Raza+✦&fontSize=16&fontColor=c8b8ff&fontAlignY=65&animation=fadeIn"/>
 
 </div>
