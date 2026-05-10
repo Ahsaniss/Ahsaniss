@@ -1,5 +1,5 @@
 <!-- DARK BACKGROUND WRAPPER -->
-<div style="background: #0a0e27; color: #e0e0e0; padding: 20px; border-radius: 12px;">
+<div style="background: #000000; color: #e0e0e0; padding: 20px; border-radius: 12px;">
 
 <!-- ANIMATED HEADER -->
 <div align="center">
